@@ -1,3 +1,2 @@
 # Fussballstatistiken
-Ein kleines Programm in der Entwicklung bzw. ein Codebeispiel, welches die Möglichkeit bietet diverse Statistiken über Fussballergebnisse zu erstellen.
-Unter scr/Programme/ lässt sich das Programm mit Starter.java starten
+Das kleine Programm, mit Java/Eclipse verfasst, ist ein Codebeispiel, welches die Möglichkeit bietet, diverse Statistiken über Fussballergebnisse und -quoten zu erstellen. Die Spiele sind in CSV-Dateien unter Daten/ erfasst und werden in Kalenderhalbwochen (WE: Fr-Mo und unter der Woche) chronologisch gegliedert. Unter scr/Programme/ lässt sich das Programm mit Starter.java starten
