@@ -1,0 +1,428 @@
+Datum;Tag;Uhrzeit;Heimteam;Auswärtsteam;HZ-Ergebnis;Endergebnis;Ereignis;1;X;2
+64.KHW
+09/08/19;Fr.;21:00;Liverpool;Norwich;4:0;4:1;;1.15;10.73;15.42
+10/08/19;Sa.;13:30;West Ham;Man City;0:1;0:5;;10.53;6.50;1.28
+10/08/19;Sa.;16:00;Bournemouth;Sheff Utd;0:0;1:1;;1.99;3.62;3.97
+10/08/19;Sa.;16:00;Burnley;Southampton;0:0;3:0;;2.65;3.25;2.88
+10/08/19;Sa.;16:00;C Palace;Everton;0:0;0:0;;3.49;3.36;2.24
+10/08/19;Sa.;16:00;Watford;Brighton;0:1;0:3;;2.06;3.29;4.18
+10/08/19;Sa.;18:30;Tottenham;Aston Villa;0:1;3:1;;1.39;5.58;7.61
+11/08/19;So.;15:00;Leicester;Wolves;0:0;0:0;;2.46;3.17;3.26
+11/08/19;So.;15:00;Newcastle;Arsenal;0:0;0:1;;3.35;3.57;2.22
+11/08/19;So.;17:30;Man Utd;Chelsea;1:0;4:0;;2.03;3.38;4.15
+66.KHW
+17/08/19;Sa.;13:30;Arsenal;Burnley;1:1;2:1;;1.41;5.23;7.84
+17/08/19;Sa.;16:00;Aston Villa;Bournemouth;0:2;1:2;;2.28;3.70;3.11
+17/08/19;Sa.;16:00;Brighton;West Ham;0:0;1:1;;2.25;3.47;3.37
+17/08/19;Sa.;16:00;Southampton;Liverpool;0:1;1:2;;6.15;4.63;1.53
+17/08/19;Sa.;16:00;Everton;Watford;1:0;1:0;;1.86;3.73;4.48
+17/08/19;Sa.;16:00;Norwich;Newcastle;1:0;3:1;;2.18;3.43;3.59
+17/08/19;Sa.;18:30;Man City;Tottenham;2:1;2:2;;1.38;5.51;8.09
+18/08/19;So.;15:00;Sheff Utd;C Palace;0:0;1:0;;2.52;3.24;3.08
+18/08/19;So.;17:30;Chelsea;Leicester;1:0;1:1;;1.75;3.96;4.85
+19/08/19;Mo.;21:00;Wolves;Man Utd;0:1;1:1;;2.99;3.31;2.54
+68.KHW
+23/08/19;Fr.;21:00;Aston Villa;Everton;1:0;2:0;;3.03;3.45;2.44
+24/08/19;Sa.;13:30;Norwich;Chelsea;2:2;2:3;;3.90;4.01;1.91
+24/08/19;Sa.;16:00;Watford;West Ham;1:1;1:3;;2.21;3.56;3.39
+24/08/19;Sa.;16:00;Brighton;Southampton;0:0;0:2;;2.32;3.34;3.33
+24/08/19;Sa.;16:00;Man Utd;C Palace;0:1;1:2;;1.36;5.34;9.08
+24/08/19;Sa.;16:00;Sheff Utd;Leicester;0:1;1:2;;3.25;3.28;2.39
+24/08/19;Sa.;18:30;Liverpool;Arsenal;1:0;3:1;;1.49;4.97;6.31
+25/08/19;So.;15:00;Bournemouth;Man City;1:2;1:3;;16.35;7.94;1.19
+25/08/19;So.;17:30;Tottenham;Newcastle;0:1;0:1;;1.30;6.41;9.38
+25/08/19;So.;17:30;Wolves;Burnley;0:1;1:1;;1.80;3.50;5.29
+70.KHW
+31/08/19;Sa.;13:30;Southampton;Man Utd;0:1;1:1;;4.10;3.55;1.98
+31/08/19;Sa.;16:00;Chelsea;Sheff Utd;2:0;2:2;;1.48;4.72;7.03
+31/08/19;Sa.;16:00;C Palace;Aston Villa;0:0;1:0;;2.27;3.54;3.27
+31/08/19;Sa.;16:00;Leicester;Bournemouth;2:1;3:1;;1.69;4.14;5.05
+31/08/19;Sa.;16:00;Man City;Brighton;2:0;4:0;;1.13;9.90;24.08
+31/08/19;Sa.;16:00;Newcastle;Watford;1:1;1:1;;2.52;3.31;3.02
+31/08/19;Sa.;16:00;West Ham;Norwich;1:0;2:0;;1.91;4.17;3.75
+31/08/19;Sa.;18:30;Burnley;Liverpool;0:2;0:3;;8.72;5.47;1.36
+01/09/19;So.;15:00;Everton;Wolves;2:1;3:2;;2.08;3.31;4.04
+01/09/19;So.;17:30;Arsenal;Tottenham;1:2;2:2;;2.59;3.67;2.69
+74.KHW
+14/09/19;Sa.;13:30;Liverpool;Newcastle;2:1;3:1;;1.23;8.14;10.62
+14/09/19;Sa.;16:00;Wolves;Chelsea;0:3;2:5;;3.09;3.41;2.42
+14/09/19;Sa.;16:00;Tottenham;C Palace;4:0;4:0;;1.42;5.26;7.37
+14/09/19;Sa.;16:00;Sheff Utd;Southampton;0:0;0:1;;2.44;3.27;3.19
+14/09/19;Sa.;16:00;Man Utd;Leicester;1:0;1:0;;2.17;3.44;3.57
+14/09/19;Sa.;16:00;Brighton;Burnley;0:0;1:1;;2.15;3.39;3.72
+14/09/19;Sa.;18:30;Norwich;Man City;2:1;3:2;;25.90;11.95;1.10
+15/09/19;So.;15:00;Bournemouth;Everton;1:1;3:1;;3.35;3.65;2.19
+15/09/19;So.;17:30;Watford;Arsenal;0:2;2:2;;4.19;3.89;1.87
+16/09/19;Mo.;21:00;Aston Villa;West Ham;0:0;0:0;;2.77;3.60;2.56
+76.KHW
+20/09/19;Fr.;21:00;Southampton;Bournemouth;0:2;1:3;;2.19;3.60;3.39
+21/09/19;Sa.;13:30;Leicester;Tottenham;0:1;2:1;;2.69;3.52;2.68
+21/09/19;Sa.;16:00;Burnley;Norwich;2:0;2:0;;2.05;3.73;3.66
+21/09/19;Sa.;16:00;Everton;Sheff Utd;0:1;0:2;;1.82;3.54;5.08
+21/09/19;Sa.;16:00;Man City;Watford;5:0;8:0;;1.12;10.81;22.40
+21/09/19;Sa.;18:30;Newcastle;Brighton;0:0;0:0;;2.42;3.21;3.28
+22/09/19;So.;15:00;West Ham;Man Utd;1:0;2:0;;3.03;3.56;2.39
+22/09/19;So.;15:00;C Palace;Wolves;0:0;1:1;;2.70;3.16;2.92
+22/09/19;So.;17:30;Arsenal;Aston Villa;0:1;3:2;;1.45;5.26;6.65
+22/09/19;So.;17:30;Chelsea;Liverpool;0:2;1:2;;3.24;3.78;2.19
+78.KHW
+28/09/19;Sa.;13:30;Sheff Utd;Liverpool;0:0;0:1;;8.33;5.55;1.37
+28/09/19;Sa.;16:00;Wolves;Watford;1:0;2:0;;1.95;3.52;4.28
+28/09/19;Sa.;16:00;Tottenham;Southampton;2:1;2:1;;1.40;5.05;8.36
+28/09/19;Sa.;16:00;C Palace;Norwich;1:0;2:0;;1.91;3.89;4.02
+28/09/19;Sa.;16:00;Chelsea;Brighton;0:0;2:0;;1.44;5.01;7.35
+28/09/19;Sa.;16:00;Bournemouth;West Ham;1:1;2:2;;2.41;3.68;2.91
+28/09/19;Sa.;16:00;Aston Villa;Burnley;1:0;2:2;;2.30;3.52;3.21
+28/09/19;Sa.;18:30;Everton;Man City;1:1;1:3;;6.60;6.12;1.40
+29/09/19;So.;17:30;Leicester;Newcastle;1:0;5:0;;1.54;4.32;6.77
+30/09/19;Mo.;21:00;Man Utd;Arsenal;1:0;1:1;;2.26;3.58;3.24
+80.KHW
+05/10/19;Sa.;13:30;Brighton;Tottenham;2:0;3:0;;4.84;4.00;1.75
+05/10/19;Sa.;16:00;Norwich;Aston Villa;0:2;1:5;;2.44;3.71;2.85
+05/10/19;Sa.;16:00;Watford;Sheff Utd;0:0;0:0;;2.36;3.31;3.28
+05/10/19;Sa.;16:00;Liverpool;Leicester;1:0;2:1;;1.62;4.41;5.41
+05/10/19;Sa.;16:00;Burnley;Everton;0:0;1:0;;3.22;3.26;2.42
+05/10/19;Sa.;18:30;West Ham;C Palace;0:0;1:2;;2.01;3.73;3.78
+06/10/19;So.;15:00;Southampton;Chelsea;1:3;1:4;;4.63;4.27;1.72
+06/10/19;So.;15:00;Arsenal;Bournemouth;1:0;1:0;;1.37;5.98;7.55
+06/10/19;So.;15:00;Man City;Wolves;0:0;0:2;;1.16;9.36;17.49
+06/10/19;So.;17:30;Newcastle;Man Utd;0:0;1:0;;3.85;3.36;2.12
+84.KHW
+19/10/19;Sa.;13:30;Everton;West Ham;1:0;2:0;;1.79;4.09;4.38
+19/10/19;Sa.;16:00;Tottenham;Watford;0:1;1:1;;1.54;4.59;6.07
+19/10/19;Sa.;16:00;Aston Villa;Brighton;1:1;2:1;;2.44;3.51;2.98
+19/10/19;Sa.;16:00;Bournemouth;Norwich;0:0;0:0;;1.77;4.29;4.32
+19/10/19;Sa.;16:00;Chelsea;Newcastle;0:0;1:0;;1.29;6.17;10.74
+19/10/19;Sa.;16:00;Leicester;Burnley;1:1;2:1;;1.50;4.59;6.94
+19/10/19;Sa.;16:00;Wolves;Southampton;0:0;1:1;;2.10;3.32;3.94
+19/10/19;Sa.;18:30;C Palace;Man City;0:2;0:2;;12.34;7.31;1.23
+20/10/19;So.;17:30;Man Utd;Liverpool;1:0;1:1;;4.10;3.45;2.02
+21/10/19;Mo.;21:00;Sheff Utd;Arsenal;1:0;1:0;;3.68;3.59;2.08
+86.KHW
+25/10/19;Fr.;21:00;Southampton;Leicester;0:5;0:9;;3.07;3.37;2.46
+26/10/19;Sa.;13:30;Man City;Aston Villa;0:0;3:0;;1.08;13.58;28.82
+26/10/19;Sa.;16:00;West Ham;Sheff Utd;1:0;1:1;;2.29;3.47;3.28
+26/10/19;Sa.;16:00;Watford;Bournemouth;0:0;0:0;;2.31;3.59;3.13
+26/10/19;Sa.;16:00;Brighton;Everton;1:1;3:2;;2.71;3.36;2.75
+26/10/19;Sa.;18:30;Burnley;Chelsea;0:2;2:4;;5.15;3.97;1.71
+27/10/19;So.;15:00;Newcastle;Wolves;1:0;1:1;;3.40;3.12;2.41
+27/10/19;So.;17:30;Liverpool;Tottenham;0:1;2:1;;1.50;4.89;6.23
+27/10/19;So.;17:30;Norwich;Man Utd;0:2;1:3;;4.56;3.75;1.84
+27/10/19;So.;17:30;Arsenal;C Palace;2:1;2:2;;1.49;4.83;6.66
+88.KHW
+02/11/19;Sa.;13:30;Bournemouth;Man Utd;1:0;1:0;;3.65;3.56;2.10
+02/11/19;Sa.;16:00;West Ham;Newcastle;0:2;2:3;;1.86;3.82;4.32
+02/11/19;Sa.;16:00;Arsenal;Wolves;1:0;1:1;;1.79;3.95;4.57
+02/11/19;Sa.;16:00;Aston Villa;Liverpool;1:0;1:2;;9.62;6.36;1.30
+02/11/19;Sa.;16:00;Brighton;Norwich;0:0;2:0;;1.57;4.60;5.65
+02/11/19;Sa.;16:00;Man City;Southampton;0:1;2:1;;1.08;13.61;34.18
+02/11/19;Sa.;16:00;Sheff Utd;Burnley;3:0;3:0;;2.26;3.22;3.62
+02/11/19;Sa.;18:30;Watford;Chelsea;0:1;1:2;;5.30;4.36;1.63
+03/11/19;So.;15:00;C Palace;Leicester;0:0;0:2;;3.82;3.59;2.04
+03/11/19;So.;17:30;Everton;Tottenham;0:0;1:1;;2.49;3.67;2.80
+90.KHW
+08/11/19;Fr.;21:00;Norwich;Watford;;;;2.71;3.64;2.59
+09/11/19;Sa.;13:30;Chelsea;C Palace;;;;1.37;5.43;8.69
+09/11/19;Sa.;16:00;Burnley;West Ham;;;;2.38;3.58;3.04
+09/11/19;Sa.;16:00;Southampton;Everton;;;;2.82;3.46;2.59
+09/11/19;Sa.;16:00;Tottenham;Sheff Utd;;;;1.64;4.10;5.61
+09/11/19;Sa.;16:00;Newcastle;Bournemouth;;;;2.66;3.35;2.82
+09/11/19;Sa.;18:30;Leicester;Arsenal;;;;2.15;3.85;3.27
+10/11/19;So.;15:00;Wolves;Aston Villa;;;;1.92;3.69;4.18
+10/11/19;So.;15:00;Man Utd;Brighton;;;;1.62;3.96;6.29
+10/11/19;So.;17:30;Liverpool;Man City;;;;2.76;3.62;2.55
+94.KHW
+23/11/19;Sa.;13:30;West Ham;Tottenham;;;;3.23;3.84;2.17
+23/11/19;Sa.;16:00;Arsenal;Southampton;;;;1.51;4.82;6.17
+23/11/19;Sa.;16:00;Bournemouth;Wolves;;;;2.71;3.42;2.71
+23/11/19;Sa.;16:00;Brighton;Leicester;;;;3.59;3.63;2.10
+23/11/19;Sa.;16:00;C Palace;Liverpool;;;;7.29;4.97;1.45
+23/11/19;Sa.;16:00;Everton;Norwich;;;;1.57;4.61;5.66
+23/11/19;Sa.;16:00;Watford;Burnley;;;;2.16;3.57;3.49
+23/11/19;Sa.;18:30;Man City;Chelsea;;;;1.34;5.84;9.08
+24/11/19;So.;17:30;Sheff Utd;Man Utd;;;;3.59;3.38;2.19
+25/11/19;Mo.;21:00;Aston Villa;Newcastle;;;;2.12;3.58;3.58
+96.KHW
+30/11/19;Sa.;13:30;Newcastle;Man City;;;;;;
+30/11/19;Sa.;16:00;Tottenham;Bournemouth;;;;;;
+30/11/19;Sa.;16:00;Chelsea;West Ham;;;;;;
+30/11/19;Sa.;16:00;Liverpool;Brighton;;;;;;
+30/11/19;Sa.;16:00;Burnley;C Palace;;;;;;
+30/11/19;Sa.;18:30;Southampton;Watford;;;;;;
+01/12/19;So.;15:00;Norwich;Arsenal;;;;;;
+01/12/19;So.;15:00;Wolves;Sheff Utd;;;;;;
+01/12/19;So.;17:30;Man Utd;Aston Villa;;;;;;
+01/12/19;So.;17:30;Leicester;Everton;;;;;;
+97.KHW
+03/12/19;Di.;20:30;C Palace;Bournemouth;;;;;;
+03/12/19;Di.;21:15;Burnley;Man City;;;;;;
+04/12/19;Mi.;20:30;Southampton;Norwich;;;;;;
+04/12/19;Mi.;20:30;Chelsea;Aston Villa;;;;;;
+04/12/19;Mi.;20:30;Man Utd;Tottenham;;;;;;
+04/12/19;Mi.;20:30;Wolves;West Ham;;;;;;
+04/12/19;Mi.;20:30;Leicester;Watford;;;;;;
+04/12/19;Mi.;21:15;Liverpool;Everton;;;;;;
+05/12/19;Do.;20:30;Sheff Utd;Newcastle;;;;;;
+05/12/19;Do.;21:15;Arsenal;Brighton;;;;;;
+98.KHW
+07/12/19;Sa.;13:30;Everton;Chelsea;;;;;;
+07/12/19;Sa.;16:00;Bournemouth;Liverpool;;;;;;
+07/12/19;Sa.;16:00;Tottenham;Burnley;;;;;;
+07/12/19;Sa.;16:00;Watford;C Palace;;;;;;
+07/12/19;Sa.;18:30;Man City;Man Utd;;;;;;
+08/12/19;So.;15:00;Aston Villa;Leicester;;;;;;
+08/12/19;So.;15:00;Newcastle;Southampton;;;;;;
+08/12/19;So.;15:00;Norwich;Sheff Utd;;;;;;
+08/12/19;So.;17:30;Brighton;Wolves;;;;;;
+09/12/19;Mo.;21:00;West Ham;Arsenal;;;;;;
+100.KHW
+14/12/19;Sa.;13:30;Liverpool;Watford;;;;;;
+14/12/19;Sa.;16:00;Burnley;Newcastle;;;;;;
+14/12/19;Sa.;16:00;Chelsea;Bournemouth;;;;;;
+14/12/19;Sa.;16:00;Leicester;Norwich;;;;;;
+14/12/19;Sa.;16:00;Sheff Utd;Aston Villa;;;;;;
+14/12/19;Sa.;18:30;Southampton;West Ham;;;;;;
+15/12/19;So.;15:00;Man Utd;Everton;;;;;;
+15/12/19;So.;15:00;Wolves;Tottenham;;;;;;
+15/12/19;So.;17:30;Arsenal;Man City;;;;;;
+16/12/19;Mo.;21:00;C Palace;Brighton;;;;;;
+102.KHW
+21/12/19;Sa.;13:30;Everton;Arsenal;;;;;;
+21/12/19;Sa.;16:00;Newcastle;C Palace;;;;;;
+21/12/19;Sa.;16:00;Norwich;Wolves;;;;;;
+21/12/19;Sa.;16:00;Bournemouth;Burnley;;;;;;
+21/12/19;Sa.;16:00;Aston Villa;Southampton;;;;;;
+21/12/19;Sa.;16:00;Brighton;Sheff Utd;;;;;;
+21/12/19;Sa.;18:30;Man City;Leicester;;;;;;
+22/12/19;So.;15:00;Watford;Man Utd;;;;;;
+22/12/19;So.;17:30;Tottenham;Chelsea;;;;;;
+103.KHW
+26/12/19;Do.;13:30;Tottenham;Brighton;;;;;;
+26/12/19;Do.;16:00;Sheff Utd;Watford;;;;;;
+26/12/19;Do.;16:00;Aston Villa;Norwich;;;;;;
+26/12/19;Do.;16:00;Bournemouth;Arsenal;;;;;;
+26/12/19;Do.;16:00;Chelsea;Southampton;;;;;;
+26/12/19;Do.;16:00;C Palace;West Ham;;;;;;
+26/12/19;Do.;16:00;Everton;Burnley;;;;;;
+26/12/19;Do.;18:30;Man Utd;Newcastle;;;;;;
+26/12/19;Do.;21:00;Leicester;Liverpool;;;;;;
+104.KHW
+27/12/19;Fr.;20:45;Wolves;Man City;;;;;;
+28/12/19;Sa.;13:30;Brighton;Bournemouth;;;;;;
+28/12/19;Sa.;16:00;Southampton;C Palace;;;;;;
+28/12/19;Sa.;16:00;Watford;Aston Villa;;;;;;
+28/12/19;Sa.;16:00;Newcastle;Everton;;;;;;
+28/12/19;Sa.;18:30;West Ham;Leicester;;;;;;
+28/12/19;Sa.;18:30;Norwich;Tottenham;;;;;;
+28/12/19;Sa.;20:45;Burnley;Man Utd;;;;;;
+29/12/19;So.;15:00;Arsenal;Chelsea;;;;;;
+29/12/19;So.;17:30;Liverpool;Wolves;;;;;;
+29/12/19;So.;19:00;Man City;Sheff Utd;;;;;;
+105.KHW
+01/01/20;Mi.;13:30;Brighton;Chelsea;;;;;;
+01/01/20;Mi.;13:30;Burnley;Aston Villa;;;;;;
+01/01/20;Mi.;16:00;Newcastle;Leicester;;;;;;
+01/01/20;Mi.;16:00;Southampton;Tottenham;;;;;;
+01/01/20;Mi.;16:00;Watford;Wolves;;;;;;
+01/01/20;Mi.;18:30;Man City;Everton;;;;;;
+01/01/20;Mi.;18:30;Norwich;C Palace;;;;;;
+01/01/20;Mi.;18:30;West Ham;Bournemouth;;;;;;
+01/01/20;Mi.;21:00;Arsenal;Man Utd;;;;;;
+02/01/20;Do.;21:00;Liverpool;Sheff Utd;;;;;;
+3.KHW
+11/01/20;Sa.;13:30;C Palace;Arsenal;;;;;;
+11/01/20;Sa.;16:00;Wolves;Newcastle;;;;;;
+11/01/20;Sa.;16:00;Chelsea;Burnley;;;;;;
+11/01/20;Sa.;16:00;Everton;Brighton;;;;;;
+11/01/20;Sa.;16:00;Leicester;Southampton;;;;;;
+11/01/20;Sa.;16:00;Man Utd;Norwich;;;;;;
+11/01/20;Sa.;18:30;Tottenham;Liverpool;;;;;;
+11/01/20;Sa.;21:00;Sheff Utd;West Ham;;;;;;
+12/01/20;So.;15:00;Bournemouth;Watford;;;;;;
+12/01/20;So.;17:30;Aston Villa;Man City;;;;;;
+5.KHW
+18/01/20;Sa.;13:30;Watford;Tottenham;;;;;;
+18/01/20;Sa.;16:00;Norwich;Bournemouth;;;;;;
+18/01/20;Sa.;16:00;West Ham;Everton;;;;;;
+18/01/20;Sa.;16:00;Southampton;Wolves;;;;;;
+18/01/20;Sa.;16:00;Brighton;Aston Villa;;;;;;
+18/01/20;Sa.;16:00;Man City;C Palace;;;;;;
+18/01/20;Sa.;16:00;Arsenal;Sheff Utd;;;;;;
+18/01/20;Sa.;18:30;Newcastle;Chelsea;;;;;;
+19/01/20;So.;15:00;Burnley;Leicester;;;;;;
+19/01/20;So.;17:30;Liverpool;Man Utd;;;;;;
+6.KHW
+21/01/20;Di.;20:30;C Palace;Southampton;;;;;;
+21/01/20;Di.;20:30;Sheff Utd;Man City;;;;;;
+21/01/20;Di.;20:30;Everton;Newcastle;;;;;;
+21/01/20;Di.;20:30;Bournemouth;Brighton;;;;;;
+21/01/20;Di.;20:30;Aston Villa;Watford;;;;;;
+21/01/20;Di.;21:15;Chelsea;Arsenal;;;;;;
+22/01/20;Mi.;20:30;Leicester;West Ham;;;;;;
+22/01/20;Mi.;20:30;Tottenham;Norwich;;;;;;
+22/01/20;Mi.;21:15;Man Utd;Burnley;;;;;;
+23/01/20;Do.;21:00;Wolves;Liverpool;;;;;;
+9.KHW
+01/02/20;Sa.;u.U.;Newcastle;Norwich;;;;;;
+01/02/20;Sa.;u.U.;West Ham;Brighton;;;;;;
+01/02/20;Sa.;u.U.;Watford;Everton;;;;;;
+01/02/20;Sa.;u.U.;Tottenham;Man City;;;;;;
+01/02/20;Sa.;u.U.;Burnley;Arsenal;;;;;;
+01/02/20;Sa.;u.U.;Man Utd;Wolves;;;;;;
+01/02/20;Sa.;u.U.;Liverpool;Southampton;;;;;;
+01/02/20;Sa.;u.U.;Leicester;Chelsea;;;;;;
+01/02/20;Sa.;u.U.;C Palace;Sheff Utd;;;;;;
+01/02/20;Sa.;u.U.;Bournemouth;Aston Villa;;;;;;
+11.KHW
+08/02/20;Sa.;u.U.;Wolves;Leicester;;;;;;
+08/02/20;Sa.;u.U.;Southampton;Burnley;;;;;;
+08/02/20;Sa.;u.U.;Sheff Utd;Bournemouth;;;;;;
+08/02/20;Sa.;u.U.;Norwich;Liverpool;;;;;;
+08/02/20;Sa.;u.U.;Everton;C Palace;;;;;;
+08/02/20;Sa.;u.U.;Man City;West Ham;;;;;;
+08/02/20;Sa.;u.U.;Chelsea;Man Utd;;;;;;
+08/02/20;Sa.;u.U.;Brighton;Watford;;;;;;
+08/02/20;Sa.;u.U.;Aston Villa;Tottenham;;;;;;
+08/02/20;Sa.;u.U.;Arsenal;Newcastle;;;;;;
+15.KHW
+22/02/20;Sa.;u.U.;Wolves;Norwich;;;;;;
+22/02/20;Sa.;u.U.;Southampton;Aston Villa;;;;;;
+22/02/20;Sa.;u.U.;Sheff Utd;Brighton;;;;;;
+22/02/20;Sa.;u.U.;Man Utd;Watford;;;;;;
+22/02/20;Sa.;u.U.;Leicester;Man City;;;;;;
+22/02/20;Sa.;u.U.;Liverpool;West Ham;;;;;;
+22/02/20;Sa.;u.U.;C Palace;Newcastle;;;;;;
+22/02/20;Sa.;u.U.;Chelsea;Tottenham;;;;;;
+22/02/20;Sa.;u.U.;Burnley;Bournemouth;;;;;;
+22/02/20;Sa.;u.U.;Arsenal;Everton;;;;;;
+17.KHW
+29/02/20;Sa.;u.U.;West Ham;Southampton;;;;;;
+29/02/20;Sa.;u.U.;Watford;Liverpool;;;;;;
+29/02/20;Sa.;u.U.;Tottenham;Wolves;;;;;;
+29/02/20;Sa.;u.U.;Norwich;Leicester;;;;;;
+29/02/20;Sa.;u.U.;Man City;Arsenal;;;;;;
+29/02/20;Sa.;u.U.;Newcastle;Burnley;;;;;;
+29/02/20;Sa.;u.U.;Everton;Man Utd;;;;;;
+29/02/20;Sa.;u.U.;Brighton;C Palace;;;;;;
+29/02/20;Sa.;u.U.;Bournemouth;Chelsea;;;;;;
+29/02/20;Sa.;u.U.;Aston Villa;Sheff Utd;;;;;;
+19.KHW
+07/03/20;Sa.;u.U.;Liverpool;Bournemouth;;;;;;
+07/03/20;Sa.;u.U.;Southampton;Newcastle;;;;;;
+07/03/20;Sa.;u.U.;Sheff Utd;Norwich;;;;;;
+07/03/20;Sa.;u.U.;Man Utd;Man City;;;;;;
+07/03/20;Sa.;u.U.;Wolves;Brighton;;;;;;
+07/03/20;Sa.;u.U.;Leicester;Aston Villa;;;;;;
+07/03/20;Sa.;u.U.;Chelsea;Everton;;;;;;
+07/03/20;Sa.;u.U.;Burnley;Tottenham;;;;;;
+07/03/20;Sa.;u.U.;Arsenal;West Ham;;;;;;
+07/03/20;Sa.;u.U.;C Palace;Watford;;;;;;
+21.KHW
+14/03/20;Sa.;u.U.;Norwich;Southampton;;;;;;
+14/03/20;Sa.;u.U.;West Ham;Wolves;;;;;;
+14/03/20;Sa.;u.U.;Watford;Leicester;;;;;;
+14/03/20;Sa.;u.U.;Tottenham;Man Utd;;;;;;
+14/03/20;Sa.;u.U.;Man City;Burnley;;;;;;
+14/03/20;Sa.;u.U.;Newcastle;Sheff Utd;;;;;;
+14/03/20;Sa.;u.U.;Everton;Liverpool;;;;;;
+14/03/20;Sa.;u.U.;Brighton;Arsenal;;;;;;
+14/03/20;Sa.;u.U.;Bournemouth;C Palace;;;;;;
+14/03/20;Sa.;u.U.;Aston Villa;Chelsea;;;;;;
+23.KHW
+21/03/20;Sa.;u.U.;Newcastle;Aston Villa;;;;;;
+21/03/20;Sa.;u.U.;Tottenham;West Ham;;;;;;
+21/03/20;Sa.;u.U.;Southampton;Arsenal;;;;;;
+21/03/20;Sa.;u.U.;Norwich;Everton;;;;;;
+21/03/20;Sa.;u.U.;Wolves;Bournemouth;;;;;;
+21/03/20;Sa.;u.U.;Man Utd;Sheff Utd;;;;;;
+21/03/20;Sa.;u.U.;Leicester;Brighton;;;;;;
+21/03/20;Sa.;u.U.;Chelsea;Man City;;;;;;
+21/03/20;Sa.;u.U.;Burnley;Watford;;;;;;
+21/03/20;Sa.;u.U.;Liverpool;C Palace;;;;;;
+27.KHW
+04/04/20;Sa.;u.U.;Everton;Leicester;;;;;;
+04/04/20;Sa.;u.U.;Watford;Southampton;;;;;;
+04/04/20;Sa.;u.U.;Sheff Utd;Tottenham;;;;;;
+04/04/20;Sa.;u.U.;Man City;Liverpool;;;;;;
+04/04/20;Sa.;u.U.;West Ham;Chelsea;;;;;;
+04/04/20;Sa.;u.U.;C Palace;Burnley;;;;;;
+04/04/20;Sa.;u.U.;Brighton;Man Utd;;;;;;
+04/04/20;Sa.;u.U.;Bournemouth;Newcastle;;;;;;
+04/04/20;Sa.;u.U.;Aston Villa;Wolves;;;;;;
+04/04/20;Sa.;u.U.;Arsenal;Norwich;;;;;;
+29.KHW
+11/04/20;Sa.;u.U.;Wolves;Arsenal;;;;;;
+11/04/20;Sa.;u.U.;Tottenham;Everton;;;;;;
+11/04/20;Sa.;u.U.;Southampton;Man City;;;;;;
+11/04/20;Sa.;u.U.;Norwich;Brighton;;;;;;
+11/04/20;Sa.;u.U.;Man Utd;Bournemouth;;;;;;
+11/04/20;Sa.;u.U.;Newcastle;West Ham;;;;;;
+11/04/20;Sa.;u.U.;Liverpool;Aston Villa;;;;;;
+11/04/20;Sa.;u.U.;Leicester;C Palace;;;;;;
+11/04/20;Sa.;u.U.;Chelsea;Watford;;;;;;
+11/04/20;Sa.;u.U.;Burnley;Sheff Utd;;;;;;
+31.KHW
+18/04/20;Sa.;u.U.;Aston Villa;Man Utd;;;;;;
+18/04/20;Sa.;u.U.;Bournemouth;Tottenham;;;;;;
+18/04/20;Sa.;u.U.;C Palace;Chelsea;;;;;;
+18/04/20;Sa.;u.U.;Brighton;Liverpool;;;;;;
+18/04/20;Sa.;u.U.;Watford;Norwich;;;;;;
+18/04/20;Sa.;u.U.;Everton;Southampton;;;;;;
+18/04/20;Sa.;u.U.;Sheff Utd;Wolves;;;;;;
+18/04/20;Sa.;u.U.;West Ham;Burnley;;;;;;
+18/04/20;Sa.;u.U.;Arsenal;Leicester;;;;;;
+18/04/20;Sa.;u.U.;Man City;Newcastle;;;;;;
+33.KHW
+25/04/20;Sa.;u.U.;Liverpool;Burnley;;;;;;
+25/04/20;Sa.;u.U.;Aston Villa;C Palace;;;;;;
+25/04/20;Sa.;u.U.;Bournemouth;Leicester;;;;;;
+25/04/20;Sa.;u.U.;Brighton;Man City;;;;;;
+25/04/20;Sa.;u.U.;Norwich;West Ham;;;;;;
+25/04/20;Sa.;u.U.;Man Utd;Southampton;;;;;;
+25/04/20;Sa.;u.U.;Sheff Utd;Chelsea;;;;;;
+25/04/20;Sa.;u.U.;Tottenham;Arsenal;;;;;;
+25/04/20;Sa.;u.U.;Watford;Newcastle;;;;;;
+25/04/20;Sa.;u.U.;Wolves;Everton;;;;;;
+35.KHW
+02/05/20;Sa.;u.U.;Everton;Aston Villa;;;;;;
+02/05/20;Sa.;u.U.;Arsenal;Liverpool;;;;;;
+02/05/20;Sa.;u.U.;Burnley;Wolves;;;;;;
+02/05/20;Sa.;u.U.;C Palace;Man Utd;;;;;;
+02/05/20;Sa.;u.U.;Chelsea;Norwich;;;;;;
+02/05/20;Sa.;u.U.;Leicester;Sheff Utd;;;;;;
+02/05/20;Sa.;u.U.;Southampton;Brighton;;;;;;
+02/05/20;Sa.;u.U.;Newcastle;Tottenham;;;;;;
+02/05/20;Sa.;u.U.;Man City;Bournemouth;;;;;;
+02/05/20;Sa.;u.U.;West Ham;Watford;;;;;;
+37.KHW
+09/05/20;Sa.;u.U.;Man Utd;West Ham;;;;;;
+09/05/20;Sa.;u.U.;Aston Villa;Arsenal;;;;;;
+09/05/20;Sa.;u.U.;Bournemouth;Southampton;;;;;;
+09/05/20;Sa.;u.U.;Liverpool;Chelsea;;;;;;
+09/05/20;Sa.;u.U.;Brighton;Newcastle;;;;;;
+09/05/20;Sa.;u.U.;Norwich;Burnley;;;;;;
+09/05/20;Sa.;u.U.;Wolves;C Palace;;;;;;
+09/05/20;Sa.;u.U.;Watford;Man City;;;;;;
+09/05/20;Sa.;u.U.;Tottenham;Leicester;;;;;;
+09/05/20;Sa.;u.U.;Sheff Utd;Everton;;;;;;
+39.KHW
+17/05/20;So.;u.U.;Southampton;Sheff Utd;;;;;;
+17/05/20;So.;u.U.;Newcastle;Liverpool;;;;;;
+17/05/20;So.;u.U.;Man City;Norwich;;;;;;
+17/05/20;So.;u.U.;Leicester;Man Utd;;;;;;
+17/05/20;So.;u.U.;Everton;Bournemouth;;;;;;
+17/05/20;So.;u.U.;C Palace;Tottenham;;;;;;
+17/05/20;So.;u.U.;Chelsea;Wolves;;;;;;
+17/05/20;So.;u.U.;Burnley;Brighton;;;;;;
+17/05/20;So.;u.U.;Arsenal;Watford;;;;;;
+17/05/20;So.;u.U.;West Ham;Aston Villa;;;;;;
+
+Info:;Europa/England/Premier League 2019
+Kürzeln:;u.U. = unbestimmte Uhrzeit
+;v.S. = verschobenes Spiel
+;f.E. = festgelegtes Ergebnis
+;f.H. = festgelegter Heimsieg
+;f.A. = festgelegter Auswärtssieg
+;n.V. = nach Verlängerung
+;n.E. = nach Elfmeterschießen
+;KHW = Kalenderhalbwochen

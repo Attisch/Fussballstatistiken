@@ -1,0 +1,485 @@
+Datum;Tag;Uhrzeit;Heimteam;Auswärtsteam;HZ-Ergebnis;Endergebnis;Ereignis;1;X;2
+51.KHW
+27/06/19;Do.;19:30;Niederkorn;Cardiff Met;0:0;1:0;;1.21;6.62;13.60
+27/06/19;Do.;19:30;Barry Town;Cliftonville;0:0;0:0;;3.21;3.38;2.26
+27/06/19;Do.;20:00;Sant Julia;College Europa;1:1;3:2;;3.04;3.09;2.51
+27/06/19;Do.;20:00;KI Klaksvik;Tre Fiori;2:0;5:1;;1.14;8.09;21.00
+27/06/19;Do.;20:45;La Fiorita;Engordany;0:1;0:1;;2.09;3.23;3.82
+27/06/19;Do.;20:45;FC Prishtina;St Josephs;1:1;1:1;;1.19;6.54;16.79
+27/06/19;Do.;20:45;Ballymena;NSI Runavik;0:0;2:0;;2.12;3.66;3.27
+53.KHW
+02/07/19;Di.;17:45;St Josephs;FC Prishtina;0:0;2:0;;5.06;3.64;1.73
+04/07/19;Do.;19:30;Cardiff Met;Niederkorn;1:0;2:1;;5.27;3.72;1.69
+04/07/19;Do.;19:30;Engordany;La Fiorita;1:0;2:1;;2.03;3.05;4.37
+04/07/19;Do.;20:00;NSI Runavik;Ballymena;0:0;0:0;;2.03;3.65;3.54
+04/07/19;Do.;20:30;College Europa;Sant Julia;1:0;4:0;;1.35;4.90;8.22
+04/07/19;Do.;20:45;Tre Fiori;KI Klaksvik;0:3;0:4;;5.29;4.50;1.57
+04/07/19;Do.;20:45;Cliftonville;Barry Town;2:0;4:0;;1.28;5.11;13.41
+55.KHW
+09/07/19;Di.;17:55;St Josephs;Rangers;0:0;0:4;;44.57;10.75;1.07
+09/07/19;Di.;18:00;Gzira Utd;Hajduk Split;0:1;0:2;;9.27;4.80;1.36
+09/07/19;Di.;19:30;ZSKA Sofia;Titograd;1:0;4:0;;1.08;10.14;35.93
+10/07/19;Mi.;17:55;Jeunesse Esch;Tobol;0:0;0:0;;5.07;3.62;1.74
+11/07/19;Do.;15:30;Pyunik;FK Skopje;1:2;3:3;;1.67;3.71;5.56
+11/07/19;Do.;16:00;Ordabasy;Torpedo Kutaisi;0:0;1:0;;1.38;4.76;8.56
+11/07/19;Do.;16:45;Ventspils;Teuta Durres;1:0;3:0;;1.79;3.54;4.78
+11/07/19;Do.;17:00;Alashkert;G. Petrov;1:0;3:1;;2.17;3.15;3.67
+11/07/19;Do.;17:30;AEK Larnaca;Petrocub;1:0;1:0;;1.15;7.83;18.55
+11/07/19;Do.;17:30;Laci;Hapoel Beer Sheva;1:0;1:1;;5.67;4.08;1.59
+11/07/19;Do.;17:30;Narva Trans;Buducnost;0:1;0:2;;9.15;4.21;1.42
+11/07/19;Do.;18:00;Sabayil;Univers. Craiova;1:1;2:3;;5.20;3.67;1.71
+11/07/19;Do.;18:00;FC Flora;Radnicki Nis;0:0;2:0;;3.19;3.25;2.33
+11/07/19;Do.;18:00;Kuopion Pall.;Vitebsk;0:0;2:0;;2.03;3.12;4.23
+11/07/19;Do.;18:30;Ruzomberok;Levski Sofia;0:1;0:2;;2.49;2.90;3.29
+11/07/19;Do.;18:30;Vilniaus Riteriai;KI Klaksvik;0:0;1:1;;1.69;3.74;5.23
+11/07/19;Do.;18:30;Balzan;Domzale;2:1;3:4;;5.32;4.08;1.62
+11/07/19;Do.;19:00;Molde;KR Reykjavik;4:0;7:1;;1.17;7.21;16.77
+11/07/19;Do.;19:00;Debreceni;Kukesi;0:0;3:0;;1.44;4.57;7.40
+11/07/19;Do.;19:00;Bröndby IF;Inter Turku;1:1;4:1;;1.30;5.87;9.10
+11/07/19;Do.;19:00;Csf Speranta Nisporeni;Neftchi Baku;0:2;0:3;;8.65;4.57;1.40
+11/07/19;Do.;19:00;Brann;Shamrock Rovers;2:1;2:2;;1.74;3.54;5.22
+11/07/19;Do.;19:00;Liepaja;Din Minsk;1:0;1:1;;3.40;3.03;2.35
+11/07/19;Do.;19:00;Maccabi Haifa;Mura;0:0;2:0;;1.49;4.08;7.41
+11/07/19;Do.;19:00;Kauno Zalgiris;Apollon Lim.;0:1;0:2;;7.29;4.74;1.43
+11/07/19;Do.;19:00;Radnik;Spartak Trnava;1:0;2:0;;2.95;2.92;2.71
+11/07/19;Do.;19:00;Crusaders;B36 Torshavn;1:0;2:0;;1.62;3.93;5.60
+11/07/19;Do.;19:00;Dynamo Tiflis;Engordany;2:0;6:0;;1.05;15.72;31.48
+11/07/19;Do.;19:00;Malmö;Ballymena;3:0;7:0;;1.04;13.59;67.66
+11/07/19;Do.;19:00;Shakhter Soligorsk;Hibernians;0:0;1:0;;1.24;5.88;13.17
+11/07/19;Do.;19:00;FK Akademija Pandev;Zrinjski Mostar;0:2;0:3;;3.46;2.97;2.36
+11/07/19;Do.;19:30;Fola Esch;Tschichura Satschchere;1:0;1:2;;2.53;3.12;3.00
+11/07/19;Do.;20:00;Olimp. Ljubljana;Rigas Futbola;0:0;2:3;;1.49;4.29;6.83
+11/07/19;Do.;20:00;Connahs Quay;Kilmarnock;0:0;1:2;;7.15;4.66;1.44
+11/07/19;Do.;20:30;FCSB;Milsami;1:0;2:0;;1.04;14.40;51.08
+11/07/19;Do.;20:30;Cukaricki;Urartu;1:0;3:0;;1.36;5.02;8.54
+11/07/19;Do.;20:30;College Europa;Legia Warschau;0:0;0:0;;15.34;7.37;1.18
+11/07/19;Do.;20:30;Dunajska Streda;Cracovia Krakau;1:1;1:1;;2.40;3.13;3.18
+11/07/19;Do.;20:30;FK Zeta;Fehervar;1:3;1:5;;31.46;10.29;1.09
+11/07/19;Do.;20:45;Cork City;Niederkorn;0:2;0:2;;2.12;3.07;3.96
+11/07/19;Do.;20:45;St. Patrick´s;Norrköping;0:0;0:2;;5.54;3.56;1.70
+11/07/19;Do.;20:45;Cliftonville;Haugesund;0:1;0:1;;4.86;3.90;1.70
+11/07/19;Do.;20:45;Aberdeen;Rovaniemen Pall.;1:0;2:1;;1.35;4.67;10.35
+11/07/19;Do.;21:00;Honved;Zalgiris Vilnius;1:0;3:1;;1.82;3.56;4.54
+11/07/19;Do.;21:00;Siroki Brijeg;Kairat;1:1;1:2;;2.50;3.08;3.08
+11/07/19;Do.;22:00;Breidablik;Vaduz;0:0;0:0;;2.18;3.52;3.25
+11/07/19;Do.;22:00;Stjarnan G;Levadia;1:0;2:1;;2.06;3.53;3.56
+57.KHW
+16/07/19;Di.;17:00;Urartu;Cukaricki;0:2;0:5;;5.63;4.11;1.59
+16/07/19;Di.;19:00;KI Klaksvik;Vilniaus Riteriai;0:0;0:0;;2.12;3.37;3.56
+16/07/19;Di.;20:30;Titograd;ZSKA Sofia;0:0;0:0;;9.08;5.25;1.33
+17/07/19;Mi.;18:00;Tschichura Satschchere;Fola Esch;1:0;2:1;;1.69;3.85;5.09
+18/07/19;Do.;14:00;Tobol;Jeunesse Esch;1:0;1:1;;1.41;4.48;8.47
+18/07/19;Do.;16:30;Kairat;Siroki Brijeg;0:0;2:1;;1.55;4.04;6.40
+18/07/19;Do.;16:30;G. Petrov;Alashkert;0:1;0:3;;2.67;3.32;2.67
+18/07/19;Do.;17:00;Teuta Durres;Ventspils;0:0;1:0;;2.27;3.77;2.90
+18/07/19;Do.;17:30;Inter Turku;Bröndby IF;0:0;2:0;;4.68;4.28;1.66
+18/07/19;Do.;18:00;Univers. Craiova;Sabayil;1:0;3:2;;1.21;6.51;13.85
+18/07/19;Do.;18:00;Rovaniemen Pall.;Aberdeen;1:1;1:2;;6.50;4.05;1.54
+18/07/19;Do.;18:00;Levadia;Stjarnan G;1:1;3:2;n.V.;1.95;3.78;3.69
+18/07/19;Do.;18:00;Rigas Futbola;Olimp. Ljubljana;0:1;0:2;;4.52;3.97;1.73
+18/07/19;Do.;18:30;Din Minsk;Liepaja;0:1;1:2;;1.53;4.04;6.74
+18/07/19;Do.;18:30;Levski Sofia;Ruzomberok;1:0;2:0;;1.58;3.96;6.07
+18/07/19;Do.;19:00;Zalgiris Vilnius;Honved;1:0;1:1;;1.92;3.84;3.73
+18/07/19;Do.;19:00;Neftchi Baku;Csf Speranta Nisporeni;4:0;6:0;;1.03;16.65;64.64
+18/07/19;Do.;19:00;Cracovia Krakau;Dunajska Streda;1:0;2:2;n.V.;2.04;3.46;3.70
+18/07/19;Do.;19:00;Haugesund;Cliftonville;3:1;5:1;;1.20;6.69;14.90
+18/07/19;Do.;19:00;Milsami;FCSB;0:2;1:2;;7.84;4.92;1.39
+18/07/19;Do.;19:00;Apollon Lim.;Kauno Zalgiris;2:0;4:0;;1.14;8.12;20.52
+18/07/19;Do.;19:00;Torpedo Kutaisi;Ordabasy;0:0;0:2;;4.03;3.35;1.99
+18/07/19;Do.;19:00;Petrocub;AEK Larnaca;0:0;0:1;;4.52;3.68;1.79
+18/07/19;Do.;19:00;Vaduz;Breidablik;0:0;2:1;;1.58;4.16;5.60
+18/07/19;Do.;19:00;Zrinjski Mostar;FK Akademija Pandev;0:0;3:0;;1.48;4.36;7.01
+18/07/19;Do.;19:30;Hapoel Beer Sheva;Laci;0:0;1:0;;1.21;6.71;13.97
+18/07/19;Do.;19:30;Engordany;Dynamo Tiflis;0:0;0:1;;22.97;9.77;1.11
+18/07/19;Do.;19:30;Niederkorn;Cork City;0:1;1:2;;2.12;3.20;3.76
+18/07/19;Do.;20:00;Norrköping;St. Patrick´s;1:0;2:1;;1.20;6.65;15.11
+18/07/19;Do.;20:00;Mura;Maccabi Haifa;1:2;2:3;;2.81;3.31;2.56
+18/07/19;Do.;20:00;Kukesi;Debreceni;1:0;1:1;;2.83;3.36;2.51
+18/07/19;Do.;20:00;Hibernians;Shakhter Soligorsk;0:0;0:1;;4.95;3.70;1.73
+18/07/19;Do.;20:00;Fehervar;FK Zeta;0:0;0:0;;1.04;15.97;46.66
+18/07/19;Do.;20:00;Hajduk Split;Gzira Utd;1:0;1:3;;1.09;10.81;26.82
+18/07/19;Do.;20:00;B36 Torshavn;Crusaders;1:2;2:3;;2.54;3.47;2.71
+18/07/19;Do.;20:30;Vitebsk;Kuopion Pall.;1:0;1:1;;2.31;3.26;3.23
+18/07/19;Do.;20:30;FK Skopje;Pyunik;0:2;1:2;;2.88;3.73;2.31
+18/07/19;Do.;20:45;Radnicki Nis;FC Flora;0:0;2:2;;1.45;4.63;6.93
+18/07/19;Do.;20:45;Domzale;Balzan;1:0;1:0;;1.19;7.42;14.06
+18/07/19;Do.;20:45;Rangers;St Josephs;2:0;6:0;;1.01;20.05;106.33
+18/07/19;Do.;20:45;Spartak Trnava;Radnik;1:0;5:2;n.E.;1.52;4.08;6.76
+18/07/19;Do.;20:45;Kilmarnock;Connahs Quay;0:0;0:2;;1.22;6.52;13.11
+18/07/19;Do.;20:45;Ballymena;Malmö;0:1;0:4;;14.57;8.25;1.16
+18/07/19;Do.;20:45;Buducnost;Narva Trans;1:1;4:1;;1.15;7.56;21.77
+18/07/19;Do.;21:00;Legia Warschau;College Europa;2:0;3:0;;1.06;12.13;36.05
+18/07/19;Do.;21:00;Shamrock Rovers;Brann;0:0;2:1;;3.30;3.25;2.28
+18/07/19;Do.;21:00;KR Reykjavik;Molde;0:0;0:0;;5.78;4.71;1.50
+59.KHW
+23/07/19;Di.;17:00;Ararat Armenia;Lincoln Red Imps;2:0;2:0;;1.28;5.63;10.82
+23/07/19;Di.;17:45;HB Torshavn;Linfield;1:1;2:2;;2.40;3.08;3.24
+23/07/19;Di.;17:55;FK Shkendija;Dudelange;1:0;1:2;;1.63;4.07;5.27
+23/07/19;Di.;20:00;FC Coloma;FC Astana;0:0;0:0;;18.65;6.63;1.18
+23/07/19;Di.;20:30;Tre Penne;FK Suduva;0:2;0:5;;20.73;7.45;1.15
+24/07/19;Mi.;18:00;Slovan Bratislava;KF Feronikeli;1:0;2:1;;1.18;7.14;16.05
+25/07/19;Do.;15:30;Pyunik;Jablonec;2:0;2:1;;3.81;3.44;2.01
+25/07/19;Do.;16:45;Ventspils;Gzira Utd;1:0;4:0;;1.67;3.70;5.54
+25/07/19;Do.;17:00;Gabala;Dynamo Tiflis;0:1;0:2;;3.25;2.99;2.45
+25/07/19;Do.;17:30;P. Tirana;Sheriff Tiraspol;0:1;0:1;;3.73;2.96;2.25
+25/07/19;Do.;17:30;AEK Larnaca;Levski Sofia;0:0;3:0;;2.29;2.90;3.74
+25/07/19;Do.;18:30;Utrecht;Zrinjski Mostar;0:1;1:1;;1.24;5.82;14.18
+25/07/19;Do.;18:45;Tschichura Satschchere;Aberdeen;1:0;1:1;;5.95;3.42;1.70
+25/07/19;Do.;18:55;Honved;Univers. Craiova;0:0;0:0;;3.29;3.16;2.33
+25/07/19;Do.;19:00;FC Flora;Frankfurt;1:1;1:2;;16.34;7.95;1.16
+25/07/19;Do.;19:00;Haugesund;Sturm Graz;0:0;2:0;;2.89;3.29;2.50
+25/07/19;Do.;19:00;Jungbunzlau;Ordabasy;1:1;1:1;;1.87;3.42;4.49
+25/07/19;Do.;19:00;KS Lechia;Bröndby IF;1:0;2:1;;2.58;3.27;2.80
+25/07/19;Do.;19:00;Alashkert;FCSB;0:0;0:3;;6.94;4.37;1.48
+25/07/19;Do.;19:00;Malatya Bld;Olimp. Ljubljana;1:1;2:2;;1.95;3.55;3.90
+25/07/19;Do.;19:00;Molde;Cukaricki;0:0;0:0;;1.37;5.05;8.07
+25/07/19;Do.;19:00;Arsenal Tula;Neftchi Baku;0:1;0:1;;1.59;3.86;6.10
+25/07/19;Do.;19:00;Shakhter Soligorsk;Esbjerg;1:0;2:0;;2.13;3.01;4.04
+25/07/19;Do.;19:30;Connahs Quay;Partizan;0:0;0:1;;17.97;5.70;1.22
+25/07/19;Do.;19:30;Hapoel Beer Sheva;Kairat;1:0;2:0;;2.10;3.26;3.74
+25/07/19;Do.;19:30;Lok Plovdiv;Spartak Trnava;1:0;2:0;;2.31;3.06;3.46
+25/07/19;Do.;19:30;ZSKA Sofia;Osijek;0:0;1:0;;2.13;3.13;3.83
+25/07/19;Do.;20:00;Piast Gliwice;Riga FC;0:1;3:2;;1.35;4.56;10.81
+25/07/19;Do.;20:00;Norrköping;Liepaja;1:0;2:0;;1.23;6.13;13.73
+25/07/19;Do.;20:00;Fehervar;Vaduz;1:0;1:0;;1.41;4.60;8.20
+25/07/19;Do.;20:15;Luzern;KI Klaksvik;0:0;1:0;;1.15;7.76;20.56
+25/07/19;Do.;20:30;Alkmar;Häcken;0:0;0:0;;1.53;4.29;6.14
+25/07/19;Do.;20:30;Jeunesse Esch;V. Guimaraes;0:0;0:1;;12.86;5.38;1.27
+25/07/19;Do.;20:30;Dunajska Streda;Atromitos Athinon;1:2;1:2;;2.02;3.22;4.08
+25/07/19;Do.;20:30;Aris Thessaloniki;AEL Limassol;0:0;0:0;;1.76;3.38;5.38
+25/07/19;Do.;20:30;KAA Gent;Viitorul;5:1;6:3;;1.58;4.33;5.41
+25/07/19;Do.;20:45;Straßburg;Maccabi Haifa;1:1;3:1;;1.61;3.82;5.97
+25/07/19;Do.;20:45;Wolves;Crusaders;1:0;2:0;;1.01;20.11;43.62
+25/07/19;Do.;20:45;Rangers;Niederkorn;1:0;2:0;;1.04;13.59;77.80
+25/07/19;Do.;20:45;Buducnost;Zorja Lugansk;0:2;1:3;;5.00;3.26;1.84
+25/07/19;Do.;20:45;Domzale;Malmö;1:1;2:2;;4.47;3.40;1.88
+25/07/19;Do.;21:00;Legia Warschau;Kuopion Pall.;1:0;1:0;;1.24;5.98;13.42
+25/07/19;Do.;21:00;Espanyol;Stjarnan G;0:0;4:0;;1.03;14.72;62.99
+25/07/19;Do.;21:00;Shamrock Rovers;Apollon Lim.;1:1;2:1;;3.01;2.97;2.62
+25/07/19;Do.;21:00;Turin;Debreceni;2:0;3:0;;1.16;7.61;17.70
+25/07/19;Do.;21:00;Valur R;Ludogorets 1945;1:0;1:1;;9.83;5.08;1.33
+61.KHW
+30/07/19;Di.;17:45;Lincoln Red Imps;Ararat Armenia;0:1;1:2;;3.75;3.50;2.01
+30/07/19;Di.;17:45;FK Suduva;Tre Penne;3:0;5:0;;1.03;17.44;45.94
+30/07/19;Di.;17:55;Dudelange;FK Shkendija;0:0;1:1;;3.06;3.58;2.26
+30/07/19;Di.;18:00;KF Feronikeli;Slovan Bratislava;0:1;0:2;;5.40;4.21;1.59
+31/07/19;Mi.;20:45;Cukaricki;Molde;0:2;1:3;;3.25;3.37;2.25
+01/08/19;Do.;16:00;Ordabasy;Jungbunzlau;1:2;2:3;;2.45;3.25;2.99
+01/08/19;Do.;16:00;FC Astana;FC Coloma;1:1;4:1;;1.09;10.48;26.93
+01/08/19;Do.;16:30;Kairat;Hapoel Beer Sheva;1:0;1:1;;1.77;3.90;4.39
+01/08/19;Do.;17:00;Viitorul;KAA Gent;0:1;2:1;;3.00;3.91;2.17
+01/08/19;Do.;18:00;Zorja Lugansk;Buducnost;1:0;1:0;;1.44;4.49;7.42
+01/08/19;Do.;18:00;Kuopion Pall.;Legia Warschau;0:0;0:0;;5.75;3.88;1.62
+01/08/19;Do.;18:15;Univers. Craiova;Honved;0:0;3:1;n.E.;1.50;4.20;6.81
+01/08/19;Do.;18:30;Debreceni;Turin;0:2;1:4;;6.66;4.76;1.45
+01/08/19;Do.;18:30;Häcken;Alkmar;0:1;0:3;;3.49;3.32;2.16
+01/08/19;Do.;18:30;Riga FC;Piast Gliwice;1:1;2:1;;3.52;3.35;2.14
+01/08/19;Do.;18:30;Levski Sofia;AEK Larnaca;0:2;0:4;;2.11;3.26;3.73
+01/08/19;Do.;19:00;Apollon Lim.;Shamrock Rovers;1:0;3:1;n.V.;1.54;4.10;6.30
+01/08/19;Do.;19:00;Atromitos Athinon;Dunajska Streda;2:0;3:2;;2.00;3.54;3.73
+01/08/19;Do.;19:00;Malmö;Domzale;2:2;3:2;;1.39;5.04;7.58
+01/08/19;Do.;19:00;KI Klaksvik;Luzern;0:1;0:1;;8.62;4.73;1.38
+01/08/19;Do.;19:00;Zrinjski Mostar;Utrecht;0:1;2:1;n.V.;7.21;4.69;1.43
+01/08/19;Do.;19:00;Dynamo Tiflis;Gabala;0:0;3:0;;1.52;4.10;6.65
+01/08/19;Do.;19:00;Neftchi Baku;Arsenal Tula;0:0;3:0;;3.02;3.18;2.47
+01/08/19;Do.;19:00;Sheriff Tiraspol;P. Tirana;0:1;1:1;;1.45;4.32;7.66
+01/08/19;Do.;19:00;Jablonec;Pyunik;0:0;0:0;;1.22;6.39;13.25
+01/08/19;Do.;19:00;AEL Limassol;Aris Thessaloniki;0:1;0:1;;3.01;3.24;2.45
+01/08/19;Do.;19:00;Maccabi Haifa;Straßburg;2:1;2:1;;3.06;3.48;2.29
+01/08/19;Do.;19:00;Vaduz;Fehervar;0:0;2:0;n.V.;3.37;3.31;2.22
+01/08/19;Do.;19:00;Liepaja;Norrköping;0:0;0:1;;4.36;3.77;1.80
+01/08/19;Do.;19:30;Bröndby IF;KS Lechia;1:0;4:1;n.V.;1.75;4.06;4.28
+01/08/19;Do.;19:30;Ludogorets 1945;Valur R;2:0;4:0;;1.14;8.06;21.71
+01/08/19;Do.;19:30;Niederkorn;Rangers;0:0;0:0;;11.24;5.46;1.29
+01/08/19;Do.;19:45;Esbjerg;Shakhter Soligorsk;0:0;0:0;;1.90;3.40;4.36
+01/08/19;Do.;20:00;Olimp. Ljubljana;Malatya Bld;0:0;0:1;;2.17;3.63;3.20
+01/08/19;Do.;20:00;Gzira Utd;Ventspils;1:0;2:2;;1.67;4.21;4.73
+01/08/19;Do.;20:30;Frankfurt;FC Flora;1:1;2:1;;1.08;11.92;26.93
+01/08/19;Do.;20:30;Sturm Graz;Haugesund;1:0;2:1;;1.44;4.66;7.18
+01/08/19;Do.;20:30;FCSB;Alashkert;1:3;2:3;;1.42;4.76;7.35
+01/08/19;Do.;20:45;Spartak Trnava;Lok Plovdiv;1:0;3:1;;2.04;3.30;3.90
+01/08/19;Do.;20:45;Osijek;ZSKA Sofia;1:0;4:4;n.E.;1.77;3.43;5.17
+01/08/19;Do.;20:45;Linfield;HB Torshavn;1:0;1:0;;2.41;3.48;2.87
+01/08/19;Do.;20:45;Aberdeen;Tschichura Satschchere;2:0;5:0;;1.37;4.83;8.69
+01/08/19;Do.;21:00;V. Guimaraes;Jeunesse Esch;1:0;4:0;;1.11;8.83;30.55
+01/08/19;Do.;21:00;Partizan;Connahs Quay;0:0;3:0;;1.07;11.07;40.91
+01/08/19;Do.;21:00;Crusaders;Wolves;1:3;1:4;;30.88;9.16;1.10
+01/08/19;Do.;21:15;Stjarnan G;Espanyol;0:1;1:3;;9.65;5.84;1.29
+63.KHW
+06/08/19;Di.;17:00;Ararat Armenia;Saburtalo;1:0;1:2;;1.88;3.33;4.59
+06/08/19;Di.;18:00;Riga FC;HJK;0:1;1:1;;2.49;2.92;3.26
+06/08/19;Di.;20:15;Sutjeska;Linfield;1:1;1:2;;1.49;4.01;7.63
+07/08/19;Mi.;20:15;Slovan Bratislava;Dundalk;0:0;1:0;;1.40;4.57;8.63
+08/08/19;Do.;16:00;FC Astana;Valletta;3:0;5:1;;1.24;6.02;12.91
+08/08/19;Do.;17:30;AEK Larnaca;KAA Gent;0:1;1:1;;2.65;3.42;2.63
+08/08/19;Do.;18:00;Sparta Prag;Trabzonspor;1:0;2:2;;2.29;3.28;3.25
+08/08/19;Do.;18:00;Pyunik;Wolves;0:2;0:4;;11.07;5.95;1.26
+08/08/19;Do.;18:15;Univers. Craiova;AEK Athen;0:0;0:2;;3.73;2.85;2.32
+08/08/19;Do.;18:30;Bröndby IF;Braga;1:2;2:4;;3.11;3.45;2.28
+08/08/19;Do.;18:45;Ventspils;V. Guimaraes;0:1;0:3;;8.60;4.61;1.40
+08/08/19;Do.;19:00;Haugesund;Eindhoven;0:1;0:1;;7.32;4.60;1.44
+08/08/19;Do.;19:00;Sheriff Tiraspol;AIK;0:2;1:2;;3.07;2.96;2.59
+08/08/19;Do.;19:00;Neftchi Baku;Bnei Yehuda;1:2;2:2;;1.62;3.73;6.02
+08/08/19;Do.;19:00;Malmö;Zrinjski Mostar;1:0;3:0;;1.30;5.19;11.05
+08/08/19;Do.;19:00;FC Mariupol;Alkmar;0:0;0:0;;8.56;4.60;1.40
+08/08/19;Do.;19:00;Molde;Aris Thessaloniki;2:0;3:0;;1.82;3.57;4.55
+08/08/19;Do.;19:00;Thun;Spartak Moskau;0:2;2:3;;3.12;3.26;2.36
+08/08/19;Do.;19:30;Antwerpen;Viktoria Pilsen;1:0;1:0;;2.12;3.38;3.53
+08/08/19;Do.;19:30;ZSKA Sofia;Zorja Lugansk;1:1;1:1;;2.29;2.97;3.61
+08/08/19;Do.;19:30;Feyenoord;Dynamo Tiflis;1:0;4:0;;1.38;5.27;7.52
+08/08/19;Do.;19:30;Lok Plovdiv;Straßburg;0:1;0:1;;4.27;3.20;1.99
+08/08/19;Do.;19:30;Ludogorets 1945;TNS;3:0;5:0;;1.18;7.03;17.72
+08/08/19;Do.;19:30;Maccabi Tel Aviv;FK Suduva;0:1;1:2;;1.27;6.00;10.10
+08/08/19;Do.;19:45;Sarajevo;Bate Borisov;0:1;1:2;;2.93;3.01;2.66
+08/08/19;Do.;20:00;Dudelange;Kalju;2:1;3:1;;1.52;4.18;6.53
+08/08/19;Do.;20:00;Norrköping;Hapoel Beer Sheva;0:0;1:1;;1.71;3.67;5.15
+08/08/19;Do.;20:00;Midtjylland;Rangers;0:1;2:4;;2.47;3.17;3.03
+08/08/19;Do.;20:00;Rijeka;Aberdeen;0:0;2:0;;1.69;3.65;5.47
+08/08/19;Do.;20:30;Vaduz;Frankfurt;0:3;0:5;;10.03;6.07;1.27
+08/08/19;Do.;20:30;Austria Wien;Apollon Lim.;1:1;1:2;;2.14;3.45;3.42
+08/08/19;Do.;20:30;FCSB;Jungbunzlau;0:0;0:0;;2.10;3.51;3.46
+08/08/19;Do.;21:00;Legia Warschau;Atromitos Athinon;0:0;0:0;;1.63;3.68;6.11
+08/08/19;Do.;21:00;Partizan;Malatya Bld;1:0;3:1;;1.71;3.51;5.53
+08/08/19;Do.;21:00;Turin;Shakhter Soligorsk;2:0;5:0;;1.20;6.51;15.74
+08/08/19;Do.;21:00;Luzern;Espanyol;0:1;0:3;;4.35;3.38;1.91
+65.KHW
+13/08/19;Di.;18:00;Kalju;Dudelange;0:0;0:1;;3.18;3.65;2.17
+13/08/19;Di.;20:45;Linfield;Sutjeska;2:1;3:2;;2.68;3.50;2.56
+13/08/19;Di.;21:00;Dundalk;Slovan Bratislava;0:2;1:3;;3.25;3.18;2.34
+14/08/19;Mi.;18:00;V. Guimaraes;Ventspils;1:0;6:0;;1.06;12.33;42.14
+14/08/19;Mi.;18:00;Saburtalo;Ararat Armenia;0:1;0:2;;2.09;3.64;3.36
+14/08/19;Mi.;18:00;Atromitos Athinon;Legia Warschau;0:1;0:2;;3.77;3.09;2.17
+15/08/19;Do.;18:00;HJK;Riga FC;1:0;2:2;;1.68;3.62;5.65
+15/08/19;Do.;18:30;Dynamo Tiflis;Feyenoord;0:0;1:1;;4.57;4.11;1.70
+15/08/19;Do.;18:45;Spartak Moskau;Thun;0:1;2:1;;1.58;4.24;5.27
+15/08/19;Do.;19:00;Jungbunzlau;FCSB;0:0;0:1;;2.21;3.61;3.12
+15/08/19;Do.;19:00;AIK;Sheriff Tiraspol;0:0;1:1;;1.41;4.44;8.60
+15/08/19;Do.;19:00;Apollon Lim.;Austria Wien;1:1;3:1;;1.89;3.97;3.73
+15/08/19;Do.;19:00;FK Suduva;Maccabi Tel Aviv;2:0;2:1;;4.71;3.93;1.72
+15/08/19;Do.;19:00;Shakhter Soligorsk;Turin;0:0;1:1;;6.97;4.98;1.42
+15/08/19;Do.;19:00;Bate Borisov;Sarajevo;0:0;0:0;;1.37;4.83;8.71
+15/08/19;Do.;19:00;Zrinjski Mostar;Malmö;0:0;1:0;;5.36;3.91;1.65
+15/08/19;Do.;19:00;Bnei Yehuda;Neftchi Baku;1:0;2:1;;3.16;3.43;2.26
+15/08/19;Do.;19:00;Malatya Bld;Partizan;1:0;1:0;;2.37;3.57;2.87
+15/08/19;Do.;19:00;Zorja Lugansk;ZSKA Sofia;0:0;1:0;;2.31;3.03;3.48
+15/08/19;Do.;19:30;Hapoel Beer Sheva;Norrköping;0:0;3:1;;2.41;3.26;3.05
+15/08/19;Do.;19:30;Trabzonspor;Sparta Prag;1:0;2:1;;1.81;4.06;3.99
+15/08/19;Do.;19:30;TNS;Ludogorets 1945;0:2;0:4;;6.54;4.55;1.48
+15/08/19;Do.;20:00;Valletta;FC Astana;0:2;0:4;;4.74;3.88;1.72
+15/08/19;Do.;20:00;AEK Athen;Univers. Craiova;1:0;1:1;;1.67;3.82;5.33
+15/08/19;Do.;20:00;Viktoria Pilsen;Antwerpen;0:0;2:1;n.V.;1.99;3.69;3.62
+15/08/19;Do.;20:30;Aris Thessaloniki;Molde;2:0;3:1;n.V.;2.06;3.56;3.52
+15/08/19;Do.;20:30;Alkmar;FC Mariupol;2:0;4:0;;1.17;7.13;17.26
+15/08/19;Do.;20:30;KAA Gent;AEK Larnaca;0:0;3:0;;1.56;4.48;5.37
+15/08/19;Do.;20:30;Frankfurt;Vaduz;1:0;1:0;;1.11;9.79;20.41
+15/08/19;Do.;20:30;Eindhoven;Haugesund;0:0;0:0;;1.18;7.04;15.70
+15/08/19;Do.;20:30;Straßburg;Lok Plovdiv;1:0;1:0;;1.48;4.30;7.10
+15/08/19;Do.;20:45;Braga;Bröndby IF;2:0;3:1;;1.52;4.58;5.68
+15/08/19;Do.;20:45;Aberdeen;Rijeka;0:2;0:2;;2.43;3.17;3.10
+15/08/19;Do.;20:45;Rangers;Midtjylland;2:0;3:1;;1.63;4.15;5.16
+15/08/19;Do.;20:45;Wolves;Pyunik;0:0;4:0;;1.07;12.47;31.51
+15/08/19;Do.;21:00;Espanyol;Luzern;3:0;3:0;;1.49;4.38;6.59
+67.KHW
+22/08/19;Do.;16:00;FC Astana;Bate Borisov;2:0;3:0;;1.73;3.62;5.08
+22/08/19;Do.;17:00;Ararat Armenia;Dudelange;1:0;2:1;;2.27;3.21;3.35
+22/08/19;Do.;19:00;FK Suduva;Ferencvarosi;0:0;0:0;;3.26;3.26;2.29
+22/08/19;Do.;19:00;Malmö;Bnei Yehuda;2:0;3:0;;1.32;4.98;11.04
+22/08/19;Do.;19:30;Ludogorets 1945;Maribor;0:0;0:0;;1.64;3.88;5.45
+22/08/19;Do.;19:30;Feyenoord;Hapoel Beer Sheva;1:0;3:0;;1.32;5.35;9.64
+22/08/19;Do.;19:45;Kopenhagen;Riga FC;1:1;3:1;;1.28;5.45;11.79
+22/08/19;Do.;20:00;Legia Warschau;Rangers;0:0;0:0;;3.46;3.21;2.22
+22/08/19;Do.;20:00;AEK Athen;Trabzonspor;1:2;1:3;;2.21;3.24;3.46
+22/08/19;Do.;20:30;Eindhoven;Apollon Lim.;0:0;3:0;;1.42;4.86;7.09
+22/08/19;Do.;20:30;KAA Gent;Rijeka;0:1;2:1;;1.58;4.03;5.90
+22/08/19;Do.;20:30;Straßburg;Frankfurt;1:0;1:0;;3.93;3.41;1.99
+22/08/19;Do.;20:30;FCSB;V. Guimaraes;0:0;0:0;;2.77;3.06;2.75
+22/08/19;Do.;20:30;Alkmar;Antwerpen;0:1;1:1;;2.01;3.43;3.82
+22/08/19;Do.;20:45;Braga;Spartak Moskau;0:0;1:0;;1.64;4.13;5.00
+22/08/19;Do.;20:45;Celtic;AIK;0:0;2:0;;1.42;4.40;8.31
+22/08/19;Do.;20:45;Linfield;Qarabag;2:1;3:2;;9.44;4.92;1.35
+22/08/19;Do.;21:00;Turin;Wolves;0:1;2:3;;2.56;2.94;3.13
+22/08/19;Do.;21:00;Partizan;Molde;1:1;2:1;;1.97;3.37;4.08
+22/08/19;Do.;21:00;Slovan Bratislava;PAOK;0:0;1:0;;3.72;3.36;2.07
+22/08/19;Do.;21:00;Espanyol;Zorja Lugansk;0:1;3:1;;1.53;4.07;6.64
+69.KHW
+29/08/19;Do.;18:00;Qarabag;Linfield;1:0;2:1;;1.13;8.82;20.34
+29/08/19;Do.;18:45;Riga FC;Kopenhagen;0:0;1:0;;4.71;3.85;1.73
+29/08/19;Do.;19:00;Molde;Partizan;0:0;1:1;;1.97;3.61;3.79
+29/08/19;Do.;19:00;Zorja Lugansk;Espanyol;0:1;2:2;;3.51;3.51;2.08
+29/08/19;Do.;19:00;AIK;Celtic;1:2;1:4;;3.32;3.24;2.27
+29/08/19;Do.;19:00;Bnei Yehuda;Malmö;0:1;0:1;;3.90;3.31;2.03
+29/08/19;Do.;19:00;Apollon Lim.;Eindhoven;0:0;0:4;;3.17;3.64;2.18
+29/08/19;Do.;19:00;Bate Borisov;FC Astana;1:0;2:0;;2.21;3.42;3.29
+29/08/19;Do.;19:00;PAOK;Slovan Bratislava;0:1;3:2;;1.34;5.13;9.37
+29/08/19;Do.;19:15;Spartak Moskau;Braga;0:2;1:2;;2.15;3.60;3.25
+29/08/19;Do.;19:30;Hapoel Beer Sheva;Feyenoord;0:0;0:3;;3.47;3.58;2.07
+29/08/19;Do.;19:30;Trabzonspor;AEK Athen;0:2;0:2;;1.77;3.79;4.49
+29/08/19;Do.;19:30;Antwerpen;Alkmar;0:0;1:4;n.V.;2.70;3.33;2.63
+29/08/19;Do.;20:00;Dudelange;Ararat Armenia;0:1;7:5;n.E.;2.03;3.56;3.63
+29/08/19;Do.;20:00;Ferencvarosi;FK Suduva;2:1;4:2;;1.32;5.01;10.56
+29/08/19;Do.;20:00;Rijeka;KAA Gent;1:1;1:1;;2.92;3.39;2.42
+29/08/19;Do.;20:15;Maribor;Ludogorets 1945;0:2;2:2;;3.14;3.29;2.34
+29/08/19;Do.;20:30;Frankfurt;Straßburg;1:0;3:0;;1.45;4.66;6.81
+29/08/19;Do.;20:45;Rangers;Legia Warschau;0:0;1:0;;1.65;3.93;5.27
+29/08/19;Do.;20:45;Wolves;Turin;1:0;2:1;;1.87;3.61;4.21
+29/08/19;Do.;21:00;V. Guimaraes;FCSB;0:0;1:0;;1.66;3.88;5.23
+75.KHW
+19/09/19;Do.;18:55;Standard;V. Guimaraes;0:0;2:0;;2.05;3.55;3.82
+19/09/19;Do.;18:55;Getafe;Trabzonspor;1:0;1:0;;1.52;4.29;7.25
+19/09/19;Do.;18:55;Eindhoven;Sporting;2:1;3:2;;1.54;4.59;6.18
+19/09/19;Do.;18:55;LASK;Rosenborg;1:0;1:0;;1.89;3.63;4.42
+19/09/19;Do.;18:55;Rennes;Celtic;1:0;1:1;;2.48;3.28;3.10
+19/09/19;Do.;18:55;CFR Cluj;Lazio;1:1;2:1;;4.28;3.52;1.95
+19/09/19;Do.;18:55;Frankfurt;Arsenal;0:1;0:3;;2.14;3.72;3.40
+19/09/19;Do.;18:55;Kopenhagen;Lugano;0:0;1:0;;1.94;3.55;4.32
+19/09/19;Do.;18:55;Dynamo Kiew;Malmö;0:0;1:0;;2.08;3.47;3.81
+19/09/19;Do.;18:55;Basel 1893;Krasnodar;2:0;5:0;;2.21;3.70;3.26
+19/09/19;Do.;18:55;Apoel Nicosia;Dudelange;0:1;3:4;;1.18;7.69;19.73
+19/09/19;Do.;18:55;Qarabag;Sevilla;0:0;0:3;;4.71;3.46;1.89
+19/09/19;Do.;21:00;Wolfsburg;Olexandrija;2:0;3:1;;1.29;6.12;10.83
+19/09/19;Do.;21:00;Roma;Basaksehir;1:0;4:0;;1.54;4.75;5.90
+19/09/19;Do.;21:00;M´gladbach;WAC;0:3;0:4;;1.36;5.53;8.68
+19/09/19;Do.;21:00;Wolves;Braga;0:0;0:1;;1.77;3.80;4.95
+19/09/19;Do.;21:00;Slovan Bratislava;Besiktas;1:2;4:2;;2.72;3.43;2.69
+19/09/19;Do.;21:00;KAA Gent;St. Étienne;2:1;3:2;;1.94;3.71;4.08
+19/09/19;Do.;21:00;Man Utd;FC Astana;0:0;1:0;;1.33;5.68;9.64
+19/09/19;Do.;21:00;Partizan;Alkmar;1:1;2:2;;2.91;3.23;2.65
+19/09/19;Do.;21:00;Porto;Young Boys;2:1;2:1;;1.59;4.45;5.71
+19/09/19;Do.;21:00;Rangers;Feyenoord;1:0;1:0;;2.21;3.48;3.44
+19/09/19;Do.;21:00;Espanyol;Ferencvarosi;0:1;1:1;;1.65;4.18;5.43
+19/09/19;Do.;21:00;Ludogorets 1945;ZSKA Moskau;0:1;5:1;;2.48;3.23;3.16
+79.KHW
+03/10/19;Do.;16:50;FC Astana;Partizan;0:1;1:2;;2.82;3.33;2.66
+03/10/19;Do.;18:55;Olexandrija;KAA Gent;0:1;1:1;;5.48;4.08;1.66
+03/10/19;Do.;18:55;Ferencvarosi;Ludogorets 1945;0:2;0:3;;2.76;3.33;2.73
+03/10/19;Do.;18:55;St. Étienne;Wolfsburg;1:1;1:1;;3.35;3.48;2.25
+03/10/19;Do.;18:55;Braga;Slovan Bratislava;1:1;2:2;;1.40;5.18;8.24
+03/10/19;Do.;18:55;Alkmar;Man Utd;0:0;0:0;;2.81;3.31;2.69
+03/10/19;Do.;18:55;Young Boys;Rangers;0:1;2:1;;2.15;3.75;3.34
+03/10/19;Do.;18:55;WAC;Roma;0:1;1:1;;3.94;3.91;1.92
+03/10/19;Do.;18:55;Basaksehir;M´gladbach;0:0;1:1;;3.69;3.76;2.03
+03/10/19;Do.;18:55;Feyenoord;Porto;0:0;2:0;;3.19;3.60;2.28
+03/10/19;Do.;18:55;ZSKA Moskau;Espanyol;0:0;0:2;;1.94;3.65;4.17
+03/10/19;Do.;18:55;Besiktas;Wolves;0:0;0:1;;3.49;3.53;2.17
+03/10/19;Do.;21:00;Malmö;Kopenhagen;0:1;1:1;;2.13;3.25;3.97
+03/10/19;Do.;21:00;V. Guimaraes;Frankfurt;0:1;0:1;;2.68;3.47;2.71
+03/10/19;Do.;21:00;Lugano;Dynamo Kiew;0:0;0:0;;4.45;3.42;1.95
+03/10/19;Do.;21:00;Dudelange;Qarabag;0:3;1:4;;4.41;3.64;1.89
+03/10/19;Do.;21:00;Celtic;CFR Cluj;1:0;2:0;;1.74;3.69;5.42
+03/10/19;Do.;21:00;Lazio;Rennes;0:0;2:1;;1.61;4.27;5.70
+03/10/19;Do.;21:00;Sevilla;Apoel Nicosia;1:0;1:0;;1.28;6.25;11.09
+03/10/19;Do.;21:00;Arsenal;Standard;3:0;4:0;;1.39;5.29;8.20
+03/10/19;Do.;21:00;Krasnodar;Getafe;0:1;1:2;;2.89;3.19;2.70
+03/10/19;Do.;21:00;Trabzonspor;Basel 1893;1:1;2:2;;2.98;3.64;2.38
+03/10/19;Do.;21:00;Rosenborg;Eindhoven;0:3;1:4;;4.52;3.79;1.84
+03/10/19;Do.;21:00;Sporting;LASK;0:1;2:1;;2.11;3.56;3.62
+85.KHW
+24/10/19;Do.;18:55;Besiktas;Braga;0:1;1:2;;2.85;3.44;2.57
+24/10/19;Do.;18:55;Slovan Bratislava;Wolves;1:0;1:2;;4.04;3.43;2.04
+24/10/19;Do.;18:55;Porto;Rangers;1:1;1:1;;1.63;4.14;5.69
+24/10/19;Do.;18:55;Young Boys;Feyenoord;2:0;2:0;;1.86;4.04;4.09
+24/10/19;Do.;18:55;Roma;M´gladbach;1:0;1:1;;2.18;3.76;3.28
+24/10/19;Do.;18:55;Alkmar;FC Astana;2:0;6:0;;1.21;7.09;15.43
+24/10/19;Do.;18:55;Partizan;Man Utd;0:1;0:1;;3.33;3.24;2.38
+24/10/19;Do.;18:55;Qarabag;Apoel Nicosia;1:2;2:2;;2.09;3.32;3.97
+24/10/19;Do.;18:55;St. Étienne;Olexandrija;1:1;1:1;;1.47;4.36;8.20
+24/10/19;Do.;18:55;Basaksehir;WAC;0:0;1:0;;2.19;3.52;3.46
+24/10/19;Do.;18:55;Ludogorets 1945;Espanyol;0:1;0:1;;2.43;3.20;3.27
+24/10/19;Do.;18:55;ZSKA Moskau;Ferencvarosi;0:0;0:1;;1.41;5.00;8.29
+24/10/19;Do.;18:55;KAA Gent;Wolfsburg;1:2;2:2;;2.67;3.58;2.66
+24/10/19;Do.;21:00;Sevilla;Dudelange;0:0;3:0;;1.07;15.12;36.36
+24/10/19;Do.;21:00;Rennes;CFR Cluj;0:1;0:1;;2.01;3.36;4.26
+24/10/19;Do.;21:00;Trabzonspor;Krasnodar;0:0;0:2;;2.33;3.74;3.00
+24/10/19;Do.;21:00;Celtic;Lazio;0:1;2:1;;2.27;3.56;3.23
+24/10/19;Do.;21:00;Arsenal;V. Guimaraes;1:2;3:2;;1.35;5.53;9.29
+24/10/19;Do.;21:00;Frankfurt;Standard;1:0;2:1;;1.31;6.26;9.33
+24/10/19;Do.;21:00;Getafe;Basel 1893;0:1;0:1;;1.71;3.95;5.16
+24/10/19;Do.;21:00;Dynamo Kiew;Kopenhagen;0:1;1:1;;1.89;3.53;4.61
+24/10/19;Do.;21:00;Sporting;Rosenborg;0:0;1:0;;1.65;4.22;5.39
+24/10/19;Do.;21:00;Eindhoven;LASK;0:0;0:0;;2.04;3.49;3.96
+24/10/19;Do.;21:00;Malmö;Lugano;2:0;2:1;;1.98;3.23;4.64
+89.KHW
+06/11/19;Mi.;16:50;V. Guimaraes;Arsenal;;;;3.35;3.76;2.15
+07/11/19;Do.;16:50;FC Astana;Alkmar;;;;6.08;4.52;1.55
+07/11/19;Do.;18:55;Rosenborg;Sporting;;;;3.03;3.51;2.41
+07/11/19;Do.;18:55;LASK;Eindhoven;;;;2.41;3.56;2.99
+07/11/19;Do.;18:55;Krasnodar;Trabzonspor;;;;1.68;4.17;5.18
+07/11/19;Do.;18:55;Basel 1893;Getafe;;;;2.50;3.40;2.98
+07/11/19;Do.;18:55;Kopenhagen;Dynamo Kiew;;;;2.51;3.22;3.12
+07/11/19;Do.;18:55;Lugano;Malmö;;;;2.93;3.23;2.63
+07/11/19;Do.;18:55;Lazio;Celtic;;;;1.72;4.05;4.94
+07/11/19;Do.;18:55;CFR Cluj;Rennes;;;;2.32;3.23;3.46
+07/11/19;Do.;18:55;Apoel Nicosia;Qarabag;;;;2.18;3.41;3.60
+07/11/19;Do.;18:55;Dudelange;Sevilla;;;;22.27;9.40;1.14
+07/11/19;Do.;18:55;Standard;Frankfurt;;;;3.41;3.98;2.06
+07/11/19;Do.;21:00;Olexandrija;St. Étienne;;;;4.38;3.50;1.94
+07/11/19;Do.;21:00;Ferencvarosi;ZSKA Moskau;;;;3.32;3.59;2.22
+07/11/19;Do.;21:00;Braga;Besiktas;;;;1.64;4.24;5.41
+07/11/19;Do.;21:00;Wolves;Slovan Bratislava;;;;1.40;4.78;9.18
+07/11/19;Do.;21:00;Wolfsburg;KAA Gent;;;;1.66;4.24;5.26
+07/11/19;Do.;21:00;Espanyol;Ludogorets 1945;;;;1.89;3.59;4.52
+07/11/19;Do.;21:00;Feyenoord;Young Boys;;;;2.27;3.80;3.05
+07/11/19;Do.;21:00;M´gladbach;Roma;;;;2.12;3.82;3.36
+07/11/19;Do.;21:00;WAC;Basaksehir;;;;2.13;3.67;3.47
+07/11/19;Do.;21:00;Rangers;Porto;;;;2.81;3.49;2.58
+07/11/19;Do.;21:00;Man Utd;Partizan;;;;1.41;4.57;9.66
+95.KHW
+27/11/19;Mi.;16:50;V. Guimaraes;Standard;;;;;;
+28/11/19;Do.;16:50;FC Astana;Man Utd;;;;;;
+28/11/19;Do.;16:50;Trabzonspor;Getafe;;;;;;
+28/11/19;Do.;16:50;Krasnodar;Basel 1893;;;;;;
+28/11/19;Do.;18:55;Feyenoord;Rangers;;;;;;
+28/11/19;Do.;18:55;Young Boys;Porto;;;;;;
+28/11/19;Do.;18:55;Alkmar;Partizan;;;;;;
+28/11/19;Do.;18:55;Ferencvarosi;Espanyol;;;;;;
+28/11/19;Do.;18:55;Braga;Wolves;;;;;;
+28/11/19;Do.;18:55;Besiktas;Slovan Bratislava;;;;;;
+28/11/19;Do.;18:55;ZSKA Moskau;Ludogorets 1945;;;;;;
+28/11/19;Do.;18:55;WAC;M´gladbach;;;;;;
+28/11/19;Do.;18:55;Basaksehir;Roma;;;;;;
+28/11/19;Do.;18:55;Olexandrija;Wolfsburg;;;;;;
+28/11/19;Do.;18:55;St. Étienne;KAA Gent;;;;;;
+28/11/19;Do.;21:00;Sevilla;Qarabag;;;;;;
+28/11/19;Do.;21:00;Dudelange;Apoel Nicosia;;;;;;
+28/11/19;Do.;21:00;Lugano;Kopenhagen;;;;;;
+28/11/19;Do.;21:00;Arsenal;Frankfurt;;;;;;
+28/11/19;Do.;21:00;Celtic;Rennes;;;;;;
+28/11/19;Do.;21:00;Lazio;CFR Cluj;;;;;;
+28/11/19;Do.;21:00;Rosenborg;LASK;;;;;;
+28/11/19;Do.;21:00;Sporting;Eindhoven;;;;;;
+28/11/19;Do.;21:00;Malmö;Dynamo Kiew;;;;;;
+99.KHW
+12/12/19;Do.;18:55;Kopenhagen;Malmö;;;;;;
+12/12/19;Do.;18:55;Frankfurt;V. Guimaraes;;;;;;
+12/12/19;Do.;18:55;CFR Cluj;Celtic;;;;;;
+12/12/19;Do.;18:55;Apoel Nicosia;Sevilla;;;;;;
+12/12/19;Do.;18:55;Qarabag;Dudelange;;;;;;
+12/12/19;Do.;18:55;Dynamo Kiew;Lugano;;;;;;
+12/12/19;Do.;18:55;Basel 1893;Trabzonspor;;;;;;
+12/12/19;Do.;18:55;Getafe;Krasnodar;;;;;;
+12/12/19;Do.;18:55;Standard;Arsenal;;;;;;
+12/12/19;Do.;18:55;Eindhoven;Rosenborg;;;;;;
+12/12/19;Do.;18:55;LASK;Sporting;;;;;;
+12/12/19;Do.;18:55;Rennes;Lazio;;;;;;
+12/12/19;Do.;21:00;Wolfsburg;St. Étienne;;;;;;
+12/12/19;Do.;21:00;Rangers;Young Boys;;;;;;
+12/12/19;Do.;21:00;Porto;Feyenoord;;;;;;
+12/12/19;Do.;21:00;Espanyol;ZSKA Moskau;;;;;;
+12/12/19;Do.;21:00;Ludogorets 1945;Ferencvarosi;;;;;;
+12/12/19;Do.;21:00;Roma;WAC;;;;;;
+12/12/19;Do.;21:00;M´gladbach;Basaksehir;;;;;;
+12/12/19;Do.;21:00;Wolves;Besiktas;;;;;;
+12/12/19;Do.;21:00;Slovan Bratislava;Braga;;;;;;
+12/12/19;Do.;21:00;Man Utd;Alkmar;;;;;;
+12/12/19;Do.;21:00;Partizan;FC Astana;;;;;;
+12/12/19;Do.;21:00;KAA Gent;Olexandrija;;;;;;
+
+Info:;Europa/UEFA/Europa League 2019
+Kürzeln:;u.U. = unbestimmte Uhrzeit
+;v.S. = verschobenes Spiel
+;f.E. = festgelegtes Ergebnis
+;f.H. = festgelegter Heimsieg
+;f.A. = festgelegter Auswärtssieg
+;n.V. = nach Verlängerung
+;n.E. = nach Elfmeterschießen
+;KHW = Kalenderhalbwochen

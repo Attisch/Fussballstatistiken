@@ -1,0 +1,8 @@
+Fehlercodes:
+1 = Wertangabefehler
+2 = Formatfehler
+3 = Dateilesefehler
+4 = Dateischreibfehler
+5 = Tastatureingabefehler
+6 = Verzeichnisfehler
+7 = Programmierungsfehler

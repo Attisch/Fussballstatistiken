@@ -1,0 +1,430 @@
+Datum;Tag;Uhrzeit;Heimteam;Auswärtsteam;HZ-Ergebnis;Endergebnis;Ereignis;1;X;2
+66.KHW
+16/08/19;Fr.;21:00;Athletic;Barcelona;0:0;1:0;;5.03;3.70;1.80
+17/08/19;Sa.;17:00;Celta Vigo;Real Madrid;0:1;1:3;;5.14;4.33;1.65
+17/08/19;Sa.;19:00;Valencia;R. Sociedad;0:0;1:1;;1.71;3.89;5.35
+17/08/19;Sa.;20:00;Mallorca;Eibar;1:0;2:1;;2.98;3.21;2.62
+17/08/19;Sa.;21:00;Leganés;Osasuna;0:0;0:1;;1.90;3.25;5.10
+17/08/19;Sa.;21:00;Villarreal;Granada;1:1;4:4;;1.56;4.24;6.46
+18/08/19;So.;17:00;Alavés;Levante;0:0;1:0;;2.39;3.31;3.23
+18/08/19;So.;19:00;Espanyol;Sevilla;0:1;0:2;;3.11;3.41;2.41
+18/08/19;So.;21:00;Real Betis;Valladolid;0:0;1:2;;1.86;3.64;4.62
+18/08/19;So.;22:00;Atlético;Getafe;1:0;1:0;;1.57;3.87;7.32
+68.KHW
+23/08/19;Fr.;20:00;Granada;Sevilla;0:0;0:1;;4.02;3.58;1.99
+23/08/19;Fr.;22:00;Levante;Villarreal;0:1;2:1;;2.57;3.68;2.70
+24/08/19;Sa.;17:00;Osasuna;Eibar;0:0;0:0;;2.89;3.15;2.73
+24/08/19;Sa.;19:00;Real Madrid;Valladolid;0:0;1:1;;1.24;7.79;10.30
+24/08/19;Sa.;21:00;Getafe;Athletic;1:1;1:1;;2.51;2.92;3.46
+24/08/19;Sa.;21:00;Celta Vigo;Valencia;1:0;1:0;;3.22;3.49;2.31
+25/08/19;So.;17:00;Mallorca;R. Sociedad;0:0;0:1;;3.12;3.29;2.47
+25/08/19;So.;17:00;Alavés;Espanyol;0:0;0:0;;2.79;2.99;2.97
+25/08/19;So.;19:00;Leganés;Atlético;0:0;0:1;;4.77;3.12;2.00
+25/08/19;So.;21:00;Barcelona;Real Betis;1:1;5:2;;1.40;5.25;7.99
+70.KHW
+30/08/19;Fr.;20:00;Sevilla;Celta Vigo;0:0;1:1;;1.62;4.34;5.49
+30/08/19;Fr.;22:00;Athletic;R. Sociedad;2:0;2:0;;2.46;3.05;3.39
+31/08/19;Sa.;17:00;Osasuna;Barcelona;1:0;2:2;;7.02;4.50;1.50
+31/08/19;Sa.;19:00;Getafe;Alavés;1:1;1:1;;1.91;3.11;5.42
+31/08/19;Sa.;19:00;Levante;Valladolid;0:0;2:0;;2.04;3.62;3.78
+31/08/19;Sa.;21:00;Real Betis;Leganés;0:0;2:1;;2.31;3.21;3.49
+01/09/19;So.;17:00;Valencia;Mallorca;1:0;2:0;;1.40;4.86;8.97
+01/09/19;So.;19:00;Atlético;Eibar;1:2;3:2;;1.41;4.63;9.56
+01/09/19;So.;19:00;Espanyol;Granada;0:1;0:3;;2.03;3.27;4.33
+01/09/19;So.;21:00;Villarreal;Real Madrid;1:1;2:2;;3.63;4.21;1.93
+74.KHW
+13/09/19;Fr.;21:00;Mallorca;Athletic;0:0;0:0;;3.68;3.07;2.31
+14/09/19;Sa.;13:00;Real Madrid;Levante;3:0;3:2;;1.28;6.91;9.00
+14/09/19;Sa.;16:00;Leganés;Villarreal;0:2;0:3;;2.58;3.17;3.06
+14/09/19;Sa.;18:30;R. Sociedad;Atlético;0:0;2:0;;3.71;3.17;2.25
+14/09/19;Sa.;21:00;Barcelona;Valencia;2:1;5:2;;1.62;4.16;5.76
+15/09/19;So.;12:00;Eibar;Espanyol;0:0;1:2;;2.09;3.32;4.01
+15/09/19;So.;14:00;Alavés;Sevilla;0:1;0:1;;4.10;3.25;2.09
+15/09/19;So.;16:00;Celta Vigo;Granada;0:1;0:2;;1.73;3.92;5.11
+15/09/19;So.;18:30;Valladolid;Osasuna;0:0;1:1;;2.18;3.23;3.82
+15/09/19;So.;21:00;Real Betis;Getafe;0:1;1:1;;2.20;3.39;3.56
+76.KHW
+20/09/19;Fr.;21:00;Osasuna;Real Betis;0:0;0:0;;2.42;3.48;3.04
+21/09/19;Sa.;13:00;Villarreal;Valladolid;0:0;2:0;;1.68;4.01;5.44
+21/09/19;Sa.;16:00;Levante;Eibar;0:0;0:0;;2.37;3.50;3.10
+21/09/19;Sa.;18:30;Atlético;Celta Vigo;0:0;0:0;;1.52;4.41;6.89
+21/09/19;Sa.;21:00;Granada;Barcelona;1:0;2:0;;6.64;4.69;1.50
+22/09/19;So.;12:00;Getafe;Mallorca;2:0;4:2;;1.76;3.48;5.73
+22/09/19;So.;14:00;Espanyol;R. Sociedad;0:2;1:3;;3.04;3.20;2.58
+22/09/19;So.;16:00;Valencia;Leganés;1:1;1:1;;1.57;3.75;6.50
+22/09/19;So.;18:30;Athletic;Alavés;1:0;2:0;;1.70;3.50;6.46
+22/09/19;So.;21:00;Sevilla;Real Madrid;0:0;0:1;;2.59;3.74;2.65
+77.KHW
+24/09/19;Di.;19:00;Valladolid;Granada;1:1;1:1;;2.32;3.15;3.55
+24/09/19;Di.;20:00;Real Betis;Levante;1:1;3:1;;1.85;3.91;4.25
+24/09/19;Di.;21:00;Barcelona;Villarreal;2:1;2:1;;1.28;6.92;9.75
+25/09/19;Mi.;19:00;Mallorca;Atlético;0:1;0:2;;5.70;3.83;1.69
+25/09/19;Mi.;19:00;Leganés;Athletic;0:0;1:1;;3.09;2.79;2.87
+25/09/19;Mi.;20:00;Valencia;Getafe;3:1;3:3;;2.40;3.05;3.50
+25/09/19;Mi.;21:00;Real Madrid;Osasuna;1:0;2:0;;1.42;5.32;7.26
+26/09/19;Do.;19:00;Eibar;Sevilla;0:2;3:2;;3.55;3.38;2.21
+26/09/19;Do.;20:00;Celta Vigo;Espanyol;0:0;1:1;;1.85;3.63;4.64
+26/09/19;Do.;21:00;R. Sociedad;Alavés;3:0;3:0;;1.53;4.11;7.53
+78.KHW
+27/09/19;Fr.;21:00;Villarreal;Real Betis;1:0;5:1;;1.80;4.11;4.32
+28/09/19;Sa.;13:00;Athletic;Valencia;0:1;0:1;;2.05;3.28;4.21
+28/09/19;Sa.;16:00;Getafe;Barcelona;0:1;0:2;;3.79;3.37;2.13
+28/09/19;Sa.;18:30;Granada;Leganés;1:0;1:0;;2.56;2.90;3.38
+28/09/19;Sa.;21:00;Atlético;Real Madrid;0:0;0:0;;2.37;3.37;3.21
+29/09/19;So.;12:00;Espanyol;Valladolid;0:1;0:2;;2.17;3.27;3.80
+29/09/19;So.;14:00;Eibar;Celta Vigo;0:0;2:0;;2.32;3.37;3.31
+29/09/19;So.;16:00;Alavés;Mallorca;0:0;2:0;;2.41;3.05;3.47
+29/09/19;So.;18:30;Levante;Osasuna;1:0;1:1;;2.33;3.47;3.19
+29/09/19;So.;21:00;Sevilla;R. Sociedad;1:1;3:2;;2.03;3.52;3.96
+80.KHW
+04/10/19;Fr.;21:00;Real Betis;Eibar;0:1;1:1;;1.98;3.67;3.95
+05/10/19;Sa.;13:00;Leganés;Levante;0:1;1:2;;2.05;3.47;3.93
+05/10/19;Sa.;16:00;Real Madrid;Granada;2:0;4:2;;1.35;5.67;8.86
+05/10/19;Sa.;18:30;Valencia;Alavés;1:0;2:1;;1.58;4.11;6.53
+05/10/19;Sa.;21:00;Osasuna;Villarreal;0:1;2:1;;2.67;3.37;2.79
+06/10/19;So.;12:00;Mallorca;Espanyol;1:0;2:0;;2.57;3.12;3.13
+06/10/19;So.;14:00;Celta Vigo;Athletic;0:0;1:0;;2.37;3.05;3.57
+06/10/19;So.;16:00;Valladolid;Atlético;0:0;0:0;;5.91;3.68;1.70
+06/10/19;So.;18:30;R. Sociedad;Getafe;1:0;1:2;;2.21;3.23;3.75
+06/10/19;So.;21:00;Barcelona;Sevilla;3:0;4:0;;1.51;4.80;6.33
+84.KHW
+18/10/19;Fr.;21:00;Granada;Osasuna;1:0;1:0;;2.55;3.00;3.29
+19/10/19;Sa.;13:00;Eibar;Barcelona;0:1;0:3;;6.48;4.80;1.50
+19/10/19;Sa.;16:00;Atlético;Valencia;1:0;1:1;;1.60;3.88;6.73
+19/10/19;Sa.;18:30;Getafe;Leganés;0:0;2:0;;2.31;2.88;4.01
+19/10/19;Sa.;21:00;Mallorca;Real Madrid;1:0;1:0;;5.87;4.57;1.56
+20/10/19;So.;12:00;Alavés;Celta Vigo;0:0;2:0;;2.98;2.99;2.77
+20/10/19;So.;14:00;R. Sociedad;Real Betis;2:1;3:1;;1.77;4.03;4.58
+20/10/19;So.;16:00;Espanyol;Villarreal;0:1;0:1;;3.04;3.44;2.44
+20/10/19;So.;18:30;Athletic;Valladolid;1:0;1:1;;1.82;3.35;5.49
+20/10/19;So.;21:00;Sevilla;Levante;0:0;1:0;;1.33;6.02;9.06
+86.KHW
+25/10/19;Fr.;21:00;Villarreal;Alavés;1:0;4:1;;1.59;4.12;6.29
+26/10/19;Sa.;16:00;Leganés;Mallorca;1:0;1:0;;1.72;3.55;6.05
+26/10/19;Sa.;18:30;Valladolid;Eibar;2:0;2:0;;2.64;3.13;3.01
+26/10/19;Sa.;21:00;Atlético;Athletic;1:0;2:0;;1.70;3.44;6.57
+27/10/19;So.;12:00;Celta Vigo;R. Sociedad;0:0;0:1;;2.62;3.35;2.86
+27/10/19;So.;14:00;Granada;Real Betis;0:0;1:0;;2.47;3.26;3.14
+27/10/19;So.;16:00;Levante;Espanyol;0:1;0:1;;2.38;3.44;3.13
+27/10/19;So.;18:30;Sevilla;Getafe;0:0;2:0;;1.77;3.62;5.27
+27/10/19;So.;21:00;Osasuna;Valencia;1:1;3:1;;2.72;3.27;2.81
+87.KHW
+29/10/19;Di.;19:00;Alavés;Atlético;0:0;1:1;;4.77;3.18;1.98
+29/10/19;Di.;21:15;Barcelona;Valladolid;3:1;5:1;;1.12;10.04;24.47
+30/10/19;Mi.;19:00;Valencia;Sevilla;0:1;1:1;;3.26;3.41;2.33
+30/10/19;Mi.;19:00;R. Sociedad;Levante;0:2;1:2;;1.58;4.47;5.77
+30/10/19;Mi.;20:00;Athletic;Espanyol;2:0;3:0;;1.90;3.24;5.12
+30/10/19;Mi.;21:00;Real Betis;Celta Vigo;1:0;2:1;;2.27;3.57;3.24
+30/10/19;Mi.;21:15;Real Madrid;Leganés;3:0;5:0;;1.30;5.79;11.46
+31/10/19;Do.;19:00;Mallorca;Osasuna;1:0;2:2;;2.59;3.09;3.12
+31/10/19;Do.;19:00;Eibar;Villarreal;0:0;2:1;;2.41;3.50;3.03
+31/10/19;Do.;21:15;Getafe;Granada;2:0;3:1;;1.78;3.36;5.88
+88.KHW
+02/11/19;Sa.;13:00;Espanyol;Valencia;1:0;1:2;;2.56;3.15;3.11
+02/11/19;Sa.;16:00;Levante;Barcelona;0:1;3:1;;9.12;7.03;1.28
+02/11/19;Sa.;18:30;Sevilla;Atlético;1:0;1:1;;2.50;3.08;3.28
+02/11/19;Sa.;21:00;Real Madrid;Real Betis;0:0;0:0;;1.24;7.33;11.30
+03/11/19;So.;12:00;Valladolid;Mallorca;1:0;3:0;;1.99;3.26;4.53
+03/11/19;So.;14:00;Villarreal;Athletic;0:0;0:0;;2.11;3.31;3.92
+03/11/19;So.;16:00;Osasuna;Alavés;3:1;4:2;;1.82;3.49;5.12
+03/11/19;So.;18:30;Celta Vigo;Getafe;0:1;0:1;;2.48;3.08;3.30
+03/11/19;So.;18:30;Leganés;Eibar;1:1;1:2;;2.22;3.09;3.91
+03/11/19;So.;21:00;Granada;R. Sociedad;1:1;1:2;;2.79;3.10;2.87
+90.KHW
+08/11/19;Fr.;21:00;R. Sociedad;Leganés;;;;1.66;3.78;6.15
+09/11/19;Sa.;13:00;Alavés;Valladolid;;;;2.43;3.07;3.42
+09/11/19;Sa.;16:00;Valencia;Granada;;;;1.78;3.70;5.04
+09/11/19;Sa.;18:30;Eibar;Real Madrid;;;;5.12;4.30;1.66
+09/11/19;Sa.;21:00;Barcelona;Celta Vigo;;;;1.19;7.94;16.00
+10/11/19;So.;12:00;Mallorca;Villarreal;;;;3.54;3.55;2.15
+10/11/19;So.;14:00;Athletic;Levante;;;;1.72;3.90;5.24
+10/11/19;So.;16:00;Atlético;Espanyol;;;;1.48;4.16;8.82
+10/11/19;So.;18:30;Getafe;Osasuna;;;;1.98;3.31;4.50
+10/11/19;So.;21:00;Real Betis;Sevilla;;;;3.63;3.61;2.10
+94.KHW
+22/11/19;Fr.;21:00;Levante;Mallorca;;;;1.96;3.68;4.03
+23/11/19;Sa.;13:00;Leganés;Barcelona;;;;8.05;5.55;1.38
+23/11/19;Sa.;16:00;Real Betis;Valencia;;;;2.51;3.49;2.90
+23/11/19;Sa.;18:30;Granada;Atlético;;;;5.44;3.41;1.81
+23/11/19;Sa.;21:00;Real Madrid;R. Sociedad;;;;1.43;5.41;6.84
+24/11/19;So.;12:00;Espanyol;Getafe;;;;2.61;3.06;3.13
+24/11/19;So.;14:00;Osasuna;Athletic;;;;2.74;3.12;2.90
+24/11/19;So.;16:00;Eibar;Alavés;;;;1.76;3.71;5.16
+24/11/19;So.;18:30;Villarreal;Celta Vigo;;;;1.84;3.87;4.36
+24/11/19;So.;21:00;Valladolid;Sevilla;;;;3.67;3.56;2.10
+96.KHW
+29/11/19;Fr.;21:00;Celta Vigo;Valladolid;;;;;;
+30/11/19;Sa.;13:00;Alavés;Real Madrid;;;;;;
+30/11/19;Sa.;16:00;R. Sociedad;Eibar;;;;;;
+30/11/19;Sa.;18:30;Mallorca;Real Betis;;;;;;
+30/11/19;Sa.;21:00;Valencia;Villarreal;;;;;;
+01/12/19;So.;12:00;Sevilla;Leganés;;;;;;
+01/12/19;So.;14:00;Athletic;Granada;;;;;;
+01/12/19;So.;16:00;Espanyol;Osasuna;;;;;;
+01/12/19;So.;18:30;Getafe;Levante;;;;;;
+01/12/19;So.;21:00;Atlético;Barcelona;;;;;;
+98.KHW
+08/12/19;So.;u.U.;Levante;Valencia;;;;;;
+08/12/19;So.;u.U.;Valladolid;R. Sociedad;;;;;;
+08/12/19;So.;u.U.;Real Madrid;Espanyol;;;;;;
+08/12/19;So.;u.U.;Osasuna;Sevilla;;;;;;
+08/12/19;So.;u.U.;Villarreal;Atlético;;;;;;
+08/12/19;So.;u.U.;Leganés;Celta Vigo;;;;;;
+08/12/19;So.;u.U.;Granada;Alavés;;;;;;
+08/12/19;So.;u.U.;Eibar;Getafe;;;;;;
+08/12/19;So.;u.U.;Real Betis;Athletic;;;;;;
+08/12/19;So.;u.U.;Barcelona;Mallorca;;;;;;
+100.KHW
+15/12/19;So.;u.U.;Alavés;Leganés;;;;;;
+15/12/19;So.;u.U.;Athletic;Eibar;;;;;;
+15/12/19;So.;u.U.;Atlético;Osasuna;;;;;;
+15/12/19;So.;u.U.;Celta Vigo;Mallorca;;;;;;
+15/12/19;So.;u.U.;Espanyol;Real Betis;;;;;;
+15/12/19;So.;u.U.;Getafe;Valladolid;;;;;;
+15/12/19;So.;u.U.;Granada;Levante;;;;;;
+15/12/19;So.;u.U.;R. Sociedad;Barcelona;;;;;;
+15/12/19;So.;u.U.;Sevilla;Villarreal;;;;;;
+15/12/19;So.;u.U.;Valencia;Real Madrid;;;;;;
+101.KHW
+18/12/19;Mi.;u.U.;Barcelona;Real Madrid;;;;;;
+102.KHW
+22/12/19;So.;u.U.;Real Betis;Atlético;;;;;;
+22/12/19;So.;u.U.;Leganés;Espanyol;;;;;;
+22/12/19;So.;u.U.;Levante;Celta Vigo;;;;;;
+22/12/19;So.;u.U.;Mallorca;Sevilla;;;;;;
+22/12/19;So.;u.U.;Osasuna;R. Sociedad;;;;;;
+22/12/19;So.;u.U.;Real Madrid;Athletic;;;;;;
+22/12/19;So.;u.U.;Villarreal;Getafe;;;;;;
+22/12/19;So.;u.U.;Valladolid;Valencia;;;;;;
+22/12/19;So.;u.U.;Eibar;Granada;;;;;;
+22/12/19;So.;u.U.;Barcelona;Alavés;;;;;;
+1.KHW
+05/01/20;So.;u.U.;R. Sociedad;Villarreal;;;;;;
+05/01/20;So.;u.U.;Valladolid;Leganés;;;;;;
+05/01/20;So.;u.U.;Valencia;Eibar;;;;;;
+05/01/20;So.;u.U.;Sevilla;Athletic;;;;;;
+05/01/20;So.;u.U.;Espanyol;Barcelona;;;;;;
+05/01/20;So.;u.U.;Granada;Mallorca;;;;;;
+05/01/20;So.;u.U.;Getafe;Real Madrid;;;;;;
+05/01/20;So.;u.U.;Celta Vigo;Osasuna;;;;;;
+05/01/20;So.;u.U.;Atlético;Levante;;;;;;
+05/01/20;So.;u.U.;Alavés;Real Betis;;;;;;
+5.KHW
+19/01/20;So.;u.U.;Mallorca;Valencia;;;;;;
+19/01/20;So.;u.U.;Villarreal;Espanyol;;;;;;
+19/01/20;So.;u.U.;Real Madrid;Sevilla;;;;;;
+19/01/20;So.;u.U.;Osasuna;Valladolid;;;;;;
+19/01/20;So.;u.U.;Athletic;Celta Vigo;;;;;;
+19/01/20;So.;u.U.;Levante;Alavés;;;;;;
+19/01/20;So.;u.U.;Barcelona;Granada;;;;;;
+19/01/20;So.;u.U.;Eibar;Atlético;;;;;;
+19/01/20;So.;u.U.;Real Betis;R. Sociedad;;;;;;
+19/01/20;So.;u.U.;Leganés;Getafe;;;;;;
+7.KHW
+26/01/20;So.;u.U.;Valladolid;Real Madrid;;;;;;
+26/01/20;So.;u.U.;Valencia;Barcelona;;;;;;
+26/01/20;So.;u.U.;Sevilla;Granada;;;;;;
+26/01/20;So.;u.U.;R. Sociedad;Mallorca;;;;;;
+26/01/20;So.;u.U.;Osasuna;Levante;;;;;;
+26/01/20;So.;u.U.;Getafe;Real Betis;;;;;;
+26/01/20;So.;u.U.;Espanyol;Athletic;;;;;;
+26/01/20;So.;u.U.;Celta Vigo;Eibar;;;;;;
+26/01/20;So.;u.U.;Atlético;Leganés;;;;;;
+26/01/20;So.;u.U.;Alavés;Villarreal;;;;;;
+9.KHW
+02/02/20;So.;u.U.;Villarreal;Osasuna;;;;;;
+02/02/20;So.;u.U.;Valencia;Celta Vigo;;;;;;
+02/02/20;So.;u.U.;Sevilla;Alavés;;;;;;
+02/02/20;So.;u.U.;Real Madrid;Atlético;;;;;;
+02/02/20;So.;u.U.;Mallorca;Valladolid;;;;;;
+02/02/20;So.;u.U.;Leganés;R. Sociedad;;;;;;
+02/02/20;So.;u.U.;Granada;Espanyol;;;;;;
+02/02/20;So.;u.U.;Eibar;Real Betis;;;;;;
+02/02/20;So.;u.U.;Barcelona;Levante;;;;;;
+02/02/20;So.;u.U.;Athletic;Getafe;;;;;;
+11.KHW
+09/02/20;So.;u.U.;Valladolid;Villarreal;;;;;;
+09/02/20;So.;u.U.;R. Sociedad;Athletic;;;;;;
+09/02/20;So.;u.U.;Osasuna;Real Madrid;;;;;;
+09/02/20;So.;u.U.;Levante;Leganés;;;;;;
+09/02/20;So.;u.U.;Getafe;Valencia;;;;;;
+09/02/20;So.;u.U.;Espanyol;Mallorca;;;;;;
+09/02/20;So.;u.U.;Celta Vigo;Sevilla;;;;;;
+09/02/20;So.;u.U.;Real Betis;Barcelona;;;;;;
+09/02/20;So.;u.U.;Atlético;Granada;;;;;;
+09/02/20;So.;u.U.;Alavés;Eibar;;;;;;
+13.KHW
+16/02/20;So.;u.U.;Villarreal;Levante;;;;;;
+16/02/20;So.;u.U.;Valencia;Atlético;;;;;;
+16/02/20;So.;u.U.;Sevilla;Espanyol;;;;;;
+16/02/20;So.;u.U.;Real Madrid;Celta Vigo;;;;;;
+16/02/20;So.;u.U.;Mallorca;Alavés;;;;;;
+16/02/20;So.;u.U.;Leganés;Real Betis;;;;;;
+16/02/20;So.;u.U.;Granada;Valladolid;;;;;;
+16/02/20;So.;u.U.;Eibar;R. Sociedad;;;;;;
+16/02/20;So.;u.U.;Barcelona;Getafe;;;;;;
+16/02/20;So.;u.U.;Athletic;Osasuna;;;;;;
+15.KHW
+23/02/20;So.;u.U.;Valladolid;Espanyol;;;;;;
+23/02/20;So.;u.U.;R. Sociedad;Valencia;;;;;;
+23/02/20;So.;u.U.;Osasuna;Granada;;;;;;
+23/02/20;So.;u.U.;Levante;Real Madrid;;;;;;
+23/02/20;So.;u.U.;Getafe;Sevilla;;;;;;
+23/02/20;So.;u.U.;Celta Vigo;Leganés;;;;;;
+23/02/20;So.;u.U.;Real Betis;Mallorca;;;;;;
+23/02/20;So.;u.U.;Barcelona;Eibar;;;;;;
+23/02/20;So.;u.U.;Atlético;Villarreal;;;;;;
+23/02/20;So.;u.U.;Alavés;Athletic;;;;;;
+17.KHW
+01/03/20;So.;u.U.;Valencia;Real Betis;;;;;;
+01/03/20;So.;u.U.;Sevilla;Osasuna;;;;;;
+01/03/20;So.;u.U.;R. Sociedad;Valladolid;;;;;;
+01/03/20;So.;u.U.;Real Madrid;Barcelona;;;;;;
+01/03/20;So.;u.U.;Mallorca;Getafe;;;;;;
+01/03/20;So.;u.U.;Leganés;Alavés;;;;;;
+01/03/20;So.;u.U.;Granada;Celta Vigo;;;;;;
+01/03/20;So.;u.U.;Espanyol;Atlético;;;;;;
+01/03/20;So.;u.U.;Eibar;Levante;;;;;;
+01/03/20;So.;u.U.;Athletic;Villarreal;;;;;;
+19.KHW
+08/03/20;So.;u.U.;Valladolid;Athletic;;;;;;
+08/03/20;So.;u.U.;Villarreal;Leganés;;;;;;
+08/03/20;So.;u.U.;Osasuna;Espanyol;;;;;;
+08/03/20;So.;u.U.;Levante;Granada;;;;;;
+08/03/20;So.;u.U.;Getafe;Celta Vigo;;;;;;
+08/03/20;So.;u.U.;Eibar;Mallorca;;;;;;
+08/03/20;So.;u.U.;Real Betis;Real Madrid;;;;;;
+08/03/20;So.;u.U.;Barcelona;R. Sociedad;;;;;;
+08/03/20;So.;u.U.;Atlético;Sevilla;;;;;;
+08/03/20;So.;u.U.;Alavés;Valencia;;;;;;
+21.KHW
+15/03/20;So.;u.U.;Valencia;Levante;;;;;;
+15/03/20;So.;u.U.;Sevilla;Real Betis;;;;;;
+15/03/20;So.;u.U.;R. Sociedad;Osasuna;;;;;;
+15/03/20;So.;u.U.;Real Madrid;Eibar;;;;;;
+15/03/20;So.;u.U.;Mallorca;Barcelona;;;;;;
+15/03/20;So.;u.U.;Granada;Getafe;;;;;;
+15/03/20;So.;u.U.;Espanyol;Alavés;;;;;;
+15/03/20;So.;u.U.;Celta Vigo;Villarreal;;;;;;
+15/03/20;So.;u.U.;Leganés;Valladolid;;;;;;
+15/03/20;So.;u.U.;Athletic;Atlético;;;;;;
+23.KHW
+22/03/20;So.;u.U.;Osasuna;Atlético;;;;;;
+22/03/20;So.;u.U.;Valladolid;Celta Vigo;;;;;;
+22/03/20;So.;u.U.;Real Madrid;Valencia;;;;;;
+22/03/20;So.;u.U.;Villarreal;Mallorca;;;;;;
+22/03/20;So.;u.U.;Levante;Sevilla;;;;;;
+22/03/20;So.;u.U.;Eibar;Athletic;;;;;;
+22/03/20;So.;u.U.;Real Betis;Granada;;;;;;
+22/03/20;So.;u.U.;Barcelona;Leganés;;;;;;
+22/03/20;So.;u.U.;Getafe;Espanyol;;;;;;
+22/03/20;So.;u.U.;Alavés;R. Sociedad;;;;;;
+27.KHW
+05/04/20;So.;u.U.;Mallorca;Leganés;;;;;;
+05/04/20;So.;u.U.;Valencia;Osasuna;;;;;;
+05/04/20;So.;u.U.;Sevilla;Barcelona;;;;;;
+05/04/20;So.;u.U.;R. Sociedad;Real Madrid;;;;;;
+05/04/20;So.;u.U.;Granada;Villarreal;;;;;;
+05/04/20;So.;u.U.;Getafe;Eibar;;;;;;
+05/04/20;So.;u.U.;Espanyol;Levante;;;;;;
+05/04/20;So.;u.U.;Celta Vigo;Alavés;;;;;;
+05/04/20;So.;u.U.;Atlético;Valladolid;;;;;;
+05/04/20;So.;u.U.;Athletic;Real Betis;;;;;;
+29.KHW
+12/04/20;So.;u.U.;Real Madrid;Mallorca;;;;;;
+12/04/20;So.;u.U.;Valladolid;Getafe;;;;;;
+12/04/20;So.;u.U.;Villarreal;Sevilla;;;;;;
+12/04/20;So.;u.U.;R. Sociedad;Celta Vigo;;;;;;
+12/04/20;So.;u.U.;Leganés;Granada;;;;;;
+12/04/20;So.;u.U.;Levante;Atlético;;;;;;
+12/04/20;So.;u.U.;Eibar;Valencia;;;;;;
+12/04/20;So.;u.U.;Real Betis;Espanyol;;;;;;
+12/04/20;So.;u.U.;Alavés;Osasuna;;;;;;
+12/04/20;So.;u.U.;Barcelona;Athletic;;;;;;
+32.KHW
+22/04/20;Mi.;u.U.;Levante;Real Betis;;;;;;
+22/04/20;Mi.;u.U.;Villarreal;Valencia;;;;;;
+22/04/20;Mi.;u.U.;Sevilla;Valladolid;;;;;;
+22/04/20;Mi.;u.U.;Osasuna;Leganés;;;;;;
+22/04/20;Mi.;u.U.;Granada;Eibar;;;;;;
+22/04/20;Mi.;u.U.;Getafe;R. Sociedad;;;;;;
+22/04/20;Mi.;u.U.;Espanyol;Real Madrid;;;;;;
+22/04/20;Mi.;u.U.;Celta Vigo;Barcelona;;;;;;
+22/04/20;Mi.;u.U.;Atlético;Alavés;;;;;;
+22/04/20;Mi.;u.U.;Athletic;Mallorca;;;;;;
+33.KHW
+26/04/20;So.;u.U.;Leganés;Sevilla;;;;;;
+26/04/20;So.;u.U.;Barcelona;Atlético;;;;;;
+26/04/20;So.;u.U.;Eibar;Osasuna;;;;;;
+26/04/20;So.;u.U.;Real Betis;Villarreal;;;;;;
+26/04/20;So.;u.U.;Mallorca;Celta Vigo;;;;;;
+26/04/20;So.;u.U.;R. Sociedad;Espanyol;;;;;;
+26/04/20;So.;u.U.;Valencia;Athletic;;;;;;
+26/04/20;So.;u.U.;Valladolid;Levante;;;;;;
+26/04/20;So.;u.U.;Real Madrid;Getafe;;;;;;
+26/04/20;So.;u.U.;Alavés;Granada;;;;;;
+35.KHW
+03/05/20;So.;u.U.;Espanyol;Leganés;;;;;;
+03/05/20;So.;u.U.;Athletic;Real Madrid;;;;;;
+03/05/20;So.;u.U.;Atlético;Mallorca;;;;;;
+03/05/20;So.;u.U.;Celta Vigo;Real Betis;;;;;;
+03/05/20;So.;u.U.;Osasuna;Getafe;;;;;;
+03/05/20;So.;u.U.;Granada;Valencia;;;;;;
+03/05/20;So.;u.U.;Levante;R. Sociedad;;;;;;
+03/05/20;So.;u.U.;Valladolid;Alavés;;;;;;
+03/05/20;So.;u.U.;Sevilla;Eibar;;;;;;
+03/05/20;So.;u.U.;Villarreal;Barcelona;;;;;;
+37.KHW
+10/05/20;So.;u.U.;Mallorca;Levante;;;;;;
+10/05/20;So.;u.U.;Real Madrid;Alavés;;;;;;
+10/05/20;So.;u.U.;R. Sociedad;Granada;;;;;;
+10/05/20;So.;u.U.;Valencia;Valladolid;;;;;;
+10/05/20;So.;u.U.;Getafe;Villarreal;;;;;;
+10/05/20;So.;u.U.;Celta Vigo;Atlético;;;;;;
+10/05/20;So.;u.U.;Real Betis;Osasuna;;;;;;
+10/05/20;So.;u.U.;Barcelona;Espanyol;;;;;;
+10/05/20;So.;u.U.;Athletic;Sevilla;;;;;;
+10/05/20;So.;u.U.;Eibar;Leganés;;;;;;
+38.KHW
+13/05/20;Mi.;u.U.;Granada;Real Madrid;;;;;;
+13/05/20;Mi.;u.U.;Alavés;Getafe;;;;;;
+13/05/20;Mi.;u.U.;Espanyol;Eibar;;;;;;
+13/05/20;Mi.;u.U.;Atlético;Real Betis;;;;;;
+13/05/20;Mi.;u.U.;Leganés;Valencia;;;;;;
+13/05/20;Mi.;u.U.;Osasuna;Celta Vigo;;;;;;
+13/05/20;Mi.;u.U.;Levante;Athletic;;;;;;
+13/05/20;Mi.;u.U.;Valladolid;Barcelona;;;;;;
+13/05/20;Mi.;u.U.;Sevilla;Mallorca;;;;;;
+13/05/20;Mi.;u.U.;Villarreal;R. Sociedad;;;;;;
+39.KHW
+17/05/20;So.;u.U.;Celta Vigo;Levante;;;;;;
+17/05/20;So.;u.U.;Mallorca;Granada;;;;;;
+17/05/20;So.;u.U.;Athletic;Leganés;;;;;;
+17/05/20;So.;u.U.;Real Betis;Alavés;;;;;;
+17/05/20;So.;u.U.;Barcelona;Osasuna;;;;;;
+17/05/20;So.;u.U.;Eibar;Valladolid;;;;;;
+17/05/20;So.;u.U.;Getafe;Atlético;;;;;;
+17/05/20;So.;u.U.;Valencia;Espanyol;;;;;;
+17/05/20;So.;u.U.;R. Sociedad;Sevilla;;;;;;
+17/05/20;So.;u.U.;Real Madrid;Villarreal;;;;;;
+41.KHW
+24/05/20;So.;u.U.;Sevilla;Valencia;;;;;;
+24/05/20;So.;u.U.;Osasuna;Mallorca;;;;;;
+24/05/20;So.;u.U.;Levante;Getafe;;;;;;
+24/05/20;So.;u.U.;Leganés;Real Madrid;;;;;;
+24/05/20;So.;u.U.;Granada;Athletic;;;;;;
+24/05/20;So.;u.U.;Espanyol;Celta Vigo;;;;;;
+24/05/20;So.;u.U.;Atlético;R. Sociedad;;;;;;
+24/05/20;So.;u.U.;Alavés;Barcelona;;;;;;
+24/05/20;So.;u.U.;Valladolid;Real Betis;;;;;;
+24/05/20;So.;u.U.;Villarreal;Eibar;;;;;;
+
+Info:;Europa/Spanien/LaLiga 2019
+Kürzeln:;u.U. = unbestimmte Uhrzeit
+;v.S. = verschobenes Spiel
+;f.E. = festgelegtes Ergebnis
+;f.H. = festgelegter Heimsieg
+;f.A. = festgelegter Auswärtssieg
+;n.V. = nach Verlängerung
+;n.E. = nach Elfmeterschießen
+;KHW = Kalenderhalbwochen

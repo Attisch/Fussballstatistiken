@@ -1,0 +1,359 @@
+Datum;Tag;Uhrzeit;Heimteam;Auswärtsteam;HZ-Ergebnis;Endergebnis;Ereignis;1;X;2
+60.KHW
+28/07/17;Fr.;20:30;Bochum;St. Pauli;0:0;0:1;;2.21;3.24;3.14
+29/07/17;Sa.;13:00;Ingolstadt;Berlin;0:0;0:1;;2.03;3.30;3.52
+29/07/17;Sa.;15:30;Darmstadt;Fürth;0:0;1:0;;2.10;3.15;3.48
+29/07/17;Sa.;15:30;Bielefeld;Regensburg;1:1;2:1;;1.95;3.29;3.79
+30/07/17;So.;13:30;Nürnberg;Kaiserslautern;2:0;3:0;;2.04;3.17;3.66
+30/07/17;So.;15:30;Dresden;Duisburg;0:0;1:0;;2.12;3.25;3.33
+30/07/17;So.;15:30;Heidenheim;Aue;;;v.S.;1.89;3.22;4.18
+30/07/17;So.;15:30;Kiel;Sandhausen;0:2;2:2;;2.08;3.14;3.55
+31/07/17;Mo.;20:30;Düsseldorf;Braunschweig;1:1;2:2;;2.07;3.19;3.53
+62.KHW
+04/08/17;Fr.;18:30;Sandhausen;Ingolstadt;0:0;1:0;;3.31;3.06;2.22
+04/08/17;Fr.;18:30;Berlin;Kiel;3:3;4:3;;1.86;3.34;4.11
+04/08/17;Fr.;20:30;Kaiserslautern;Darmstadt;1:0;1:1;;2.52;2.99;2.87
+05/08/17;Sa.;13:00;Duisburg;Bochum;1:0;1:1;;2.59;3.19;2.62
+05/08/17;Sa.;15:30;Braunschweig;Heidenheim;1:0;2:0;;2.19;3.15;3.27
+06/08/17;So.;13:30;Regensburg;Nürnberg;0:0;0:1;;2.72;3.27;2.46
+06/08/17;So.;15:30;Aue;Düsseldorf;0:1;0:2;;2.59;3.03;2.75
+06/08/17;So.;15:30;Fürth;Bielefeld;0:2;1:2;;2.11;3.18;3.42
+07/08/17;Mo.;20:30;St. Pauli;Dresden;1:1;2:2;;1.69;3.65;4.69
+63.KHW
+09/08/17;Mi.;20:00;Heidenheim;Aue;1:1;2:1;;2.01;3.14;3.78
+66.KHW
+18/08/17;Fr.;18:30;Darmstadt;St. Pauli;1:0;3:0;;2.46;3.12;2.83
+18/08/17;Fr.;18:30;Braunschweig;Aue;1:1;1:1;;1.77;3.43;4.49
+19/08/17;Sa.;13:00;Dresden;Sandhausen;0:1;0:4;;2.00;3.29;3.62
+19/08/17;Sa.;13:00;Heidenheim;Duisburg;0:0;1:2;;2.03;3.21;3.64
+19/08/17;Sa.;13:00;Düsseldorf;Kaiserslautern;1:0;2:0;;1.96;3.26;3.80
+20/08/17;So.;13:30;Nürnberg;Berlin;0:0;2:2;;2.43;3.27;2.76
+20/08/17;So.;13:30;Kiel;Fürth;2:1;3:1;;1.99;3.22;3.76
+20/08/17;So.;13:30;Ingolstadt;Regensburg;0:1;2:4;;1.57;3.81;5.47
+21/08/17;Mo.;20:30;Bielefeld;Bochum;2:0;2:0;;2.39;3.25;2.82
+68.KHW
+25/08/17;Fr.;18:30;Fürth;Ingolstadt;0:0;0:1;;2.86;3.12;2.44
+25/08/17;Fr.;18:30;Duisburg;Darmstadt;1:1;1:2;;2.29;3.15;3.08
+26/08/17;Sa.;13:00;St. Pauli;Heidenheim;0:0;1:0;;1.94;3.30;3.84
+26/08/17;Sa.;13:00;Regensburg;Kiel;1:2;1:2;;2.82;3.36;2.33
+26/08/17;Sa.;13:00;Aue;Nürnberg;0:0;3:1;;2.69;3.08;2.60
+27/08/17;So.;13:30;Sandhausen;Düsseldorf;1:0;1:2;;2.35;3.08;3.03
+27/08/17;So.;13:30;Berlin;Bielefeld;0:0;1:1;;1.70;3.78;4.43
+27/08/17;So.;13:30;Bochum;Dresden;2:1;3:2;;1.71;3.79;4.32
+28/08/17;Mo.;20:30;Kaiserslautern;Braunschweig;0:1;1:1;;2.41;3.05;2.96
+72.KHW
+08/09/17;Fr.;18:30;Dresden;Fürth;1:0;1:1;;2.31;3.23;2.97
+08/09/17;Fr.;18:30;Heidenheim;Regensburg;0:0;1:3;;1.98;3.37;3.59
+09/09/17;Sa.;13:00;Kiel;Kaiserslautern;1:0;2:1;;1.68;3.59;4.85
+09/09/17;Sa.;13:00;Bielefeld;Duisburg;0:1;0:4;;2.21;3.25;3.13
+09/09/17;Sa.;13:00;Ingolstadt;Aue;0:1;1:2;;1.79;3.43;4.38
+10/09/17;So.;13:30;Braunschweig;Sandhausen;0:0;1:1;;2.02;3.25;3.59
+10/09/17;So.;13:30;Darmstadt;Bochum;1:0;1:2;;2.13;3.33;3.23
+10/09/17;So.;13:30;Düsseldorf;Berlin;1:0;3:2;;2.39;3.25;2.83
+11/09/17;Mo.;20:30;Nürnberg;St. Pauli;0:0;0:1;;1.96;3.35;3.69
+74.KHW
+15/09/17;Fr.;18:30;Berlin;Braunschweig;0:0;1:1;;1.79;3.51;4.21
+15/09/17;Fr.;18:30;Aue;Kiel;0:2;0:3;;2.81;3.12;2.48
+16/09/17;Sa.;13:00;St. Pauli;Ingolstadt;0:4;0:4;;2.62;3.13;2.64
+16/09/17;Sa.;13:00;Sandhausen;Kaiserslautern;0:0;1:0;;2.18;3.01;3.46
+16/09/17;Sa.;13:00;Duisburg;Nürnberg;0:2;1:6;;2.25;3.25;3.05
+17/09/17;So.;13:30;Fürth;Düsseldorf;2:0;3:1;;2.78;3.13;2.49
+17/09/17;So.;13:30;Darmstadt;Bielefeld;1:2;4:3;;2.08;3.28;3.39
+17/09/17;So.;13:30;Bochum;Heidenheim;1:1;1:2;;1.95;3.41;3.65
+17/09/17;So.;13:30;Regensburg;Dresden;0:0;0:2;;2.39;3.44;2.71
+75.KHW
+19/09/17;Di.;18:30;Kiel;St. Pauli;0:1;0:1;;1.79;3.49;4.28
+19/09/17;Di.;18:30;Kaiserslautern;Aue;0:1;0:2;;2.36;2.89;3.23
+19/09/17;Di.;18:30;Ingolstadt;Duisburg;1:1;2:2;;1.61;3.78;5.17
+19/09/17;Di.;18:30;Sandhausen;Berlin;0:0;1:0;;2.40;3.20;2.85
+20/09/17;Mi.;18:30;Heidenheim;Darmstadt;1:1;2:2;;2.33;3.12;3.02
+20/09/17;Mi.;18:30;Düsseldorf;Regensburg;0:0;1:0;;1.73;3.73;4.25
+20/09/17;Mi.;18:30;Dresden;Bielefeld;0:0;0:2;;2.03;3.42;3.38
+20/09/17;Mi.;18:30;Braunschweig;Fürth;2:0;3:0;;2.16;3.28;3.20
+21/09/17;Do.;20:30;Nürnberg;Bochum;1:1;3:1;;2.19;3.39;3.05
+76.KHW
+22/09/17;Fr.;18:30;Duisburg;Kiel;0:1;1:3;;2.81;3.39;2.33
+22/09/17;Fr.;18:30;Aue;Sandhausen;1:0;1:0;;2.59;2.96;2.81
+23/09/17;Sa.;13:00;Regensburg;Braunschweig;0:1;2:1;;2.59;3.31;2.55
+23/09/17;Sa.;13:00;St. Pauli;Düsseldorf;1:2;1:2;;2.38;3.17;2.90
+23/09/17;Sa.;13:00;Bielefeld;Heidenheim;0:0;1:1;;2.28;3.28;2.98
+24/09/17;So.;13:30;Bochum;Ingolstadt;2:0;2:0;;2.72;3.28;2.46
+24/09/17;So.;13:30;Fürth;Nürnberg;0:1;1:3;;2.44;3.19;2.80
+24/09/17;So.;13:30;Darmstadt;Dresden;1:2;3:3;;2.12;3.38;3.19
+25/09/17;Mo.;20:30;Berlin;Kaiserslautern;4:0;5:0;;1.63;3.68;5.14
+78.KHW
+29/09/17;Fr.;18:30;Kaiserslautern;Fürth;0:0;3:0;;2.66;3.10;2.62
+29/09/17;Fr.;18:30;Ingolstadt;Darmstadt;1:0;3:0;;1.74;3.68;4.31
+30/09/17;Sa.;13:00;Aue;Berlin;0:0;1:2;;3.31;3.26;2.13
+30/09/17;Sa.;13:00;Nürnberg;Bielefeld;0:0;1:2;;1.99;3.54;3.39
+30/09/17;Sa.;13:00;Kiel;Bochum;2:0;3:0;;1.84;3.66;3.80
+01/10/17;So.;13:30;Sandhausen;Regensburg;0:0;2:0;;1.91;3.39;3.84
+01/10/17;So.;13:30;Braunschweig;St. Pauli;0:0;0:2;;2.53;3.16;2.72
+01/10/17;So.;13:30;Heidenheim;Dresden;0:1;0:2;;2.29;3.34;2.91
+02/10/17;Mo.;20:30;Düsseldorf;Duisburg;2:0;3:1;;2.05;3.48;3.27
+82.KHW
+13/10/17;Fr.;18:30;St. Pauli;Kaiserslautern;0:0;1:1;;1.77;3.37;4.60
+13/10/17;Fr.;18:30;Duisburg;Braunschweig;0:0;0:0;;2.01;3.50;3.37
+14/10/17;Sa.;13:00;Dresden;Ingolstadt;1:2;2:2;;3.13;3.36;2.16
+14/10/17;Sa.;13:00;Bielefeld;Düsseldorf;0:1;0:2;;2.46;3.27;2.73
+14/10/17;Sa.;13:00;Bochum;Sandhausen;1:0;2:0;;2.21;3.19;3.18
+15/10/17;So.;13:30;Fürth;Aue;1:0;2:1;;2.21;3.13;3.25
+15/10/17;So.;13:30;Heidenheim;Kiel;1:2;3:5;;3.24;3.34;2.12
+15/10/17;So.;13:30;Regensburg;Berlin;0:1;0:2;;3.03;3.62;2.11
+16/10/17;Mo.;20:30;Darmstadt;Nürnberg;1:1;3:4;;2.55;3.45;2.52
+84.KHW
+20/10/17;Fr.;18:30;Düsseldorf;Darmstadt;1:0;1:0;;1.64;3.89;4.66
+20/10/17;Fr.;18:30;Ingolstadt;Heidenheim;1:0;3:0;;1.52;4.01;5.73
+21/10/17;Sa.;13:00;Kiel;Bielefeld;0:0;2:1;;1.51;4.37;5.35
+21/10/17;Sa.;13:00;Braunschweig;Bochum;1:0;1:0;;2.20;3.31;3.10
+21/10/17;Sa.;13:00;Berlin;Fürth;2:0;3:1;;1.71;3.73;4.43
+22/10/17;So.;13:30;Kaiserslautern;Duisburg;0:0;0:1;;2.47;3.14;2.81
+22/10/17;So.;13:30;Aue;Regensburg;0:0;1:0;;2.14;3.31;3.22
+22/10/17;So.;13:30;Nürnberg;Dresden;1:0;2:1;;1.86;3.71;3.67
+23/10/17;Mo.;20:30;Sandhausen;St. Pauli;0:0;1:1;;2.66;2.90;2.78
+86.KHW
+27/10/17;Fr.;18:30;Bielefeld;Ingolstadt;1:2;1:3;;3.84;3.46;1.88
+27/10/17;Fr.;18:30;St. Pauli;Aue;1:0;1:1;;1.97;3.14;3.92
+28/10/17;Sa.;13:00;Darmstadt;Kiel;1:1;1:1;;3.32;3.69;1.97
+28/10/17;Sa.;13:00;Fürth;Sandhausen;1:0;2:1;;2.43;3.02;2.96
+28/10/17;Sa.;13:00;Regensburg;Kaiserslautern;2:1;3:1;;2.09;3.26;3.40
+29/10/17;So.;13:30;Heidenheim;Nürnberg;0:0;1:0;;2.93;3.41;2.24
+29/10/17;So.;13:30;Duisburg;Berlin;0:0;1:1;;2.89;3.47;2.24
+29/10/17;So.;16:00;Dresden;Braunschweig;1:0;1:1;;2.03;3.36;3.44
+30/10/17;Mo.;20:30;Bochum;Düsseldorf;0:0;0:0;;2.52;3.35;2.60
+88.KHW
+03/11/17;Fr.;18:30;Sandhausen;Duisburg;0:1;0:1;;2.42;3.16;2.86
+03/11/17;Fr.;18:30;Kaiserslautern;Bochum;0:0;0:0;;3.03;3.10;2.34
+04/11/17;Sa.;13:00;Berlin;St. Pauli;0:0;1:0;;1.76;3.57;4.29
+04/11/17;Sa.;13:00;Regensburg;Fürth;2:1;3:2;;2.29;3.34;2.91
+04/11/17;Sa.;13:00;Braunschweig;Darmstadt;1:1;2:2;;2.02;3.35;3.50
+05/11/17;So.;13:30;Kiel;Dresden;1:0;3:0;;1.50;4.34;5.46
+05/11/17;So.;13:30;Düsseldorf;Heidenheim;0:0;2:2;;1.76;3.58;4.27
+05/11/17;So.;13:30;Aue;Bielefeld;1:0;1:1;;2.23;3.20;3.13
+06/11/17;Mo.;20:30;Nürnberg;Ingolstadt;1:1;1:2;;2.88;3.36;2.30
+92.KHW
+17/11/17;Fr.;18:30;Bielefeld;Braunschweig;1:0;2:2;;2.50;3.27;2.67
+17/11/17;Fr.;18:30;Darmstadt;Sandhausen;0:1;1:2;;2.74;2.99;2.63
+18/11/17;Sa.;13:00;Bochum;Fürth;1:1;1:1;;1.88;3.50;3.81
+18/11/17;Sa.;13:00;Heidenheim;Berlin;1:0;4:3;;2.91;3.36;2.28
+18/11/17;Sa.;13:00;Nürnberg;Kiel;0:0;2:2;;3.10;3.68;2.06
+19/11/17;So.;13:30;St. Pauli;Regensburg;2:2;2:2;;1.83;3.53;3.97
+19/11/17;So.;13:30;Ingolstadt;Düsseldorf;1:0;1:0;;1.67;3.69;4.71
+19/11/17;So.;13:30;Duisburg;Aue;0:0;3:0;;2.11;3.23;3.38
+20/11/17;Mo.;20:30;Dresden;Kaiserslautern;1:0;1:2;;1.98;3.31;3.67
+94.KHW
+24/11/17;Fr.;18:30;Sandhausen;Heidenheim;1:0;1:2;;2.22;3.03;3.33
+24/11/17;Fr.;18:30;Berlin;Darmstadt;1:0;3:3;;1.47;4.32;6.02
+25/11/17;Sa.;13:00;Braunschweig;Nürnberg;1:1;2:3;;2.33;3.41;2.79
+25/11/17;Sa.;13:00;Regensburg;Duisburg;3:0;4:0;;2.45;3.42;2.64
+25/11/17;Sa.;13:00;Kiel;Ingolstadt;0:0;0:0;;2.12;3.47;3.14
+26/11/17;So.;13:30;Aue;Bochum;1:1;1:1;;2.71;3.08;2.59
+26/11/17;So.;13:30;Fürth;St. Pauli;2:0;4:0;;2.83;3.06;2.50
+26/11/17;So.;13:30;Kaiserslautern;Bielefeld;0:1;0:2;;2.51;3.06;2.82
+27/11/17;Mo.;20:30;Düsseldorf;Dresden;1:3;1:3;;1.97;3.46;3.54
+96.KHW
+01/12/17;Fr.;18:30;Bielefeld;St. Pauli;1:0;5:0;;2.77;3.19;2.46
+01/12/17;Fr.;18:30;Heidenheim;Kaiserslautern;0:0;3:2;;2.00;3.27;3.64
+02/12/17;Sa.;13:00;Duisburg;Fürth;2:0;2:0;;2.07;3.34;3.35
+02/12/17;Sa.;13:00;Nürnberg;Sandhausen;0:0;1:0;;1.98;3.45;3.51
+02/12/17;Sa.;13:00;Kiel;Düsseldorf;0:1;2:2;;1.69;3.80;4.47
+03/12/17;So.;13:30;Darmstadt;Regensburg;0:0;0:1;;2.27;3.50;2.83
+03/12/17;So.;13:30;Dresden;Aue;2:0;4:0;;2.06;3.24;3.48
+03/12/17;So.;13:30;Bochum;Berlin;1:1;2:1;;2.54;3.35;2.58
+04/12/17;Mo.;20:30;Ingolstadt;Braunschweig;0:0;0:2;;1.50;4.06;5.97
+98.KHW
+08/12/17;Fr.;18:30;Braunschweig;Kiel;0:0;0:0;;3.60;3.55;1.92
+08/12/17;Fr.;18:30;Aue;Darmstadt;1:0;1:0;;2.33;3.08;3.06
+09/12/17;Sa.;13:00;Fürth;Heidenheim;1:0;1:0;;2.34;3.20;2.94
+09/12/17;Sa.;13:00;Berlin;Dresden;0:0;0:1;;1.81;3.69;3.88
+09/12/17;Sa.;13:00;Regensburg;Bochum;0:1;0:1;;2.40;3.41;2.70
+10/12/17;So.;13:30;Sandhausen;Bielefeld;1:0;3:1;;2.31;3.15;3.03
+10/12/17;So.;13:30;St. Pauli;Duisburg;0:1;2:2;;2.05;3.25;3.53
+10/12/17;So.;13:45;Kaiserslautern;Ingolstadt;1:0;1:1;;4.84;3.52;1.70
+11/12/17;Mo.;20:30;Düsseldorf;Nürnberg;0:0;0:2;;2.38;3.39;2.73
+100.KHW
+15/12/17;Fr.;18:30;Berlin;Ingolstadt;0:0;1:2;;3.14;3.31;2.18
+15/12/17;Fr.;18:30;Braunschweig;Düsseldorf;0:1;0:1;;2.48;3.11;2.81
+16/12/17;Sa.;13:00;Kaiserslautern;Nürnberg;0:1;1:1;;3.75;3.38;1.94
+16/12/17;Sa.;13:00;Regensburg;Bielefeld;2:1;3:2;;2.17;3.53;2.98
+16/12/17;Sa.;13:00;Aue;Heidenheim;1:0;1:1;;2.62;3.05;2.70
+17/12/17;So.;13:30;Fürth;Darmstadt;1:0;1:1;;2.15;3.17;3.34
+17/12/17;So.;13:30;Sandhausen;Kiel;0:0;3:1;;3.36;3.25;2.11
+17/12/17;So.;13:30;Duisburg;Dresden;1:0;2:0;;2.50;3.36;2.62
+18/12/17;Mo.;20:30;St. Pauli;Bochum;1:0;2:1;;2.67;3.11;2.61
+7.KHW
+23/01/18;Di.;18:30;Bochum;Duisburg;0:2;0:2;;2.41;3.16;2.86
+23/01/18;Di.;20:30;Kiel;Berlin;2:1;2:2;;2.00;3.56;3.35
+23/01/18;Di.;20:30;Ingolstadt;Sandhausen;0:0;0:0;;1.58;3.74;5.54
+23/01/18;Di.;20:30;Nürnberg;Regensburg;1:2;2:2;;1.75;3.87;3.98
+24/01/18;Mi.;18:30;Darmstadt;Kaiserslautern;0:0;;v.S.;2.07;3.17;3.56
+24/01/18;Mi.;20:30;Düsseldorf;Aue;1:0;2:1;;1.63;3.63;5.24
+24/01/18;Mi.;20:30;Heidenheim;Braunschweig;0:0;2:0;;2.37;3.14;2.94
+24/01/18;Mi.;20:30;Bielefeld;Fürth;0:0;0:0;;1.94;3.45;3.65
+25/01/18;Do.;20:30;Dresden;St. Pauli;0:1;1:3;;2.19;3.30;3.11
+8.KHW
+26/01/18;Fr.;18:30;Berlin;Nürnberg;0:1;0:1;;2.04;3.54;3.25
+26/01/18;Fr.;18:30;Regensburg;Ingolstadt;0:2;3:2;;3.36;3.33;2.08
+27/01/18;Sa.;13:00;Kaiserslautern;Düsseldorf;0:0;1:3;;3.23;3.05;2.26
+27/01/18;Sa.;13:00;Duisburg;Heidenheim;1:3;3:3;;2.08;3.31;3.37
+27/01/18;Sa.;13:00;Fürth;Kiel;0:0;0:0;;3.30;3.48;2.04
+28/01/18;So.;13:30;Aue;Braunschweig;1:2;1:3;;2.75;2.99;2.62
+28/01/18;So.;13:30;Sandhausen;Dresden;0:0;1:0;;2.41;3.09;2.93
+28/01/18;So.;13:30;St. Pauli;Darmstadt;0:1;0:1;;2.14;3.13;3.40
+29/01/18;Mo.;20:30;Bochum;Bielefeld;0:0;0:1;;2.28;3.30;2.95
+10.KHW
+02/02/18;Fr.;18:30;Nürnberg;Aue;1:0;4:1;;1.65;3.74;4.86
+02/02/18;Fr.;18:30;Düsseldorf;Sandhausen;1:0;1:0;;1.94;3.19;3.99
+03/02/18;Sa.;13:00;Ingolstadt;Fürth;1:0;3:0;;1.60;3.76;5.26
+03/02/18;Sa.;13:00;Kiel;Regensburg;1:1;1:1;;1.66;3.98;4.43
+03/02/18;Sa.;13:00;Heidenheim;St. Pauli;2:1;3:1;;2.41;3.23;2.81
+04/02/18;So.;13:30;Darmstadt;Duisburg;1:1;1:2;;2.52;3.17;2.73
+04/02/18;So.;13:30;Braunschweig;Kaiserslautern;0:2;1:2;;1.77;3.41;4.51
+04/02/18;So.;13:30;Dresden;Bochum;1:0;2:0;;2.39;3.29;2.79
+05/02/18;Mo.;20:30;Bielefeld;Berlin;0:1;1:1;;2.52;3.31;2.62
+12.KHW
+09/02/18;Fr.;18:30;Kaiserslautern;Kiel;2:1;3:1;;3.81;3.42;1.90
+09/02/18;Fr.;18:30;Bochum;Darmstadt;0:0;2:1;;1.94;3.35;3.78
+10/02/18;Sa.;13:00;Regensburg;Heidenheim;1:0;2:0;;2.02;3.54;3.31
+10/02/18;Sa.;13:00;Duisburg;Bielefeld;0:1;2:2;;2.19;3.38;3.05
+10/02/18;Sa.;13:00;Berlin;Düsseldorf;0:1;3:1;;1.99;3.40;3.53
+11/02/18;So.;13:30;Sandhausen;Braunschweig;0:0;0:0;;2.45;3.00;2.96
+11/02/18;So.;13:30;Aue;Ingolstadt;0:0;0:0;;4.46;3.43;1.77
+11/02/18;So.;13:30;Fürth;Dresden;1:0;1:0;;2.66;3.21;2.55
+12/02/18;Mo.;20:30;St. Pauli;Nürnberg;0:0;0:0;;2.41;3.21;2.83
+14.KHW
+16/02/18;Fr.;18:30;Kaiserslautern;Sandhausen;0:0;0:1;;2.73;2.86;2.75
+16/02/18;Fr.;18:30;Heidenheim;Bochum;1:0;1:0;;2.61;3.15;2.63
+17/02/18;Sa.;13:00;Düsseldorf;Fürth;0:1;1:1;;1.95;3.27;3.82
+17/02/18;Sa.;13:00;Kiel;Aue;2:2;2:2;;1.51;4.12;5.72
+17/02/18;Sa.;13:00;Ingolstadt;St. Pauli;0:1;0:1;;1.68;3.67;4.73
+17/02/18;Sa.;13:00;Bielefeld;Darmstadt;1:0;2:0;;1.89;3.44;3.85
+18/02/18;So.;13:30;Braunschweig;Berlin;1:0;1:0;;2.83;3.19;2.42
+18/02/18;So.;13:30;Dresden;Regensburg;0:0;1:0;;2.31;3.50;2.76
+18/02/18;So.;13:30;Nürnberg;Duisburg;2:1;3:1;;1.85;3.53;3.90
+15.KHW
+21/02/18;Mi.;18:30;Darmstadt;Kaiserslautern;0:1;1:2;;2.32;3.10;3.06
+16.KHW
+23/02/18;Fr.;18:30;Regensburg;Düsseldorf;2:3;4:3;;2.19;3.39;3.04
+23/02/18;Fr.;18:30;Bielefeld;Dresden;1:0;2:3;;2.10;3.36;3.27
+24/02/18;Sa.;13:00;Aue;Kaiserslautern;1:0;2:1;;2.33;3.04;3.11
+24/02/18;Sa.;13:00;Fürth;Braunschweig;1:1;2:1;;2.56;3.09;2.73
+24/02/18;Sa.;13:00;Berlin;Sandhausen;2:0;2:1;;1.66;3.51;5.18
+24/02/18;Sa.;13:00;Duisburg;Ingolstadt;1:1;2:1;;3.44;3.37;2.03
+25/02/18;So.;13:30;St. Pauli;Kiel;1:2;3:2;;2.84;3.29;2.36
+25/02/18;So.;13:30;Bochum;Nürnberg;0:0;0:0;;2.33;3.18;2.97
+25/02/18;So.;13:30;Darmstadt;Heidenheim;0:1;1:1;;1.99;3.33;3.62
+18.KHW
+02/03/18;Fr.;18:30;Kaiserslautern;Berlin;2:1;4:3;;2.96;3.27;2.29
+02/03/18;Fr.;18:30;Dresden;Darmstadt;0:1;0:2;;1.91;3.43;3.78
+03/03/18;Sa.;13:00;Kiel;Duisburg;2:0;5:0;;1.74;3.77;4.15
+03/03/18;Sa.;13:00;Nürnberg;Fürth;0:0;0:2;;2.07;3.17;3.56
+03/03/18;Sa.;13:00;Sandhausen;Aue;0:0;1:1;;2.09;2.96;3.78
+04/03/18;So.;13:30;Heidenheim;Bielefeld;1:0;2:2;;2.52;3.30;2.63
+04/03/18;So.;13:30;Braunschweig;Regensburg;1:0;2:1;;2.11;3.44;3.18
+04/03/18;So.;13:30;Düsseldorf;St. Pauli;1:0;2:1;;2.14;3.18;3.34
+05/03/18;Mo.;20:30;Ingolstadt;Bochum;0:1;0:1;;1.75;3.44;4.60
+20.KHW
+09/03/18;Fr.;18:30;Bielefeld;Nürnberg;0:0;1:0;;2.47;3.28;2.69
+09/03/18;Fr.;18:30;Dresden;Heidenheim;2:1;3:2;;1.90;3.48;3.77
+10/03/18;Sa.;13:00;Fürth;Kaiserslautern;1:1;2:1;;2.05;3.26;3.51
+10/03/18;Sa.;13:00;Bochum;Kiel;1:0;1:1;;2.45;3.30;2.71
+10/03/18;Sa.;13:00;St. Pauli;Braunschweig;0:0;0:0;;2.36;3.10;3.00
+10/03/18;Sa.;13:00;Darmstadt;Ingolstadt;0:1;1:1;;2.92;3.14;2.38
+11/03/18;So.;13:30;Berlin;Aue;0:0;0:0;;1.64;3.69;5.01
+11/03/18;So.;13:30;Regensburg;Sandhausen;1:0;2:1;;2.07;3.23;3.48
+11/03/18;So.;13:30;Duisburg;Düsseldorf;0:1;1:2;;2.51;3.32;2.63
+22.KHW
+16/03/18;Fr.;18:30;Düsseldorf;Bielefeld;1:1;4:2;;2.09;3.42;3.24
+16/03/18;Fr.;18:30;Kiel;Heidenheim;2:0;2:1;;1.42;4.51;6.41
+17/03/18;Sa.;13:00;Berlin;Regensburg;1:0;2:2;;2.03;3.42;3.40
+17/03/18;Sa.;13:00;Sandhausen;Bochum;2:1;2:3;;2.97;2.88;2.52
+17/03/18;Sa.;13:00;Kaiserslautern;St. Pauli;0:0;1:1;;2.48;3.20;2.74
+18/03/18;So.;13:30;Ingolstadt;Dresden;2:0;4:2;;1.82;3.50;4.10
+18/03/18;So.;13:30;Nürnberg;Darmstadt;0:1;1:1;;1.86;3.35;4.10
+18/03/18;So.;13:30;Braunschweig;Duisburg;3:0;3:2;;2.04;3.34;3.43
+19/03/18;Mo.;20:30;Aue;Fürth;2:0;2:1;;2.54;3.00;2.83
+26.KHW
+31/03/18;Sa.;13:00;Heidenheim;Ingolstadt;0:0;1:2;;3.49;3.31;2.03
+31/03/18;Sa.;13:00;Duisburg;Kaiserslautern;0:1;1:4;;1.97;3.40;3.60
+31/03/18;Sa.;13:00;Dresden;Nürnberg;1:0;1:1;;2.48;3.25;2.71
+01/04/18;So.;13:30;Bochum;Braunschweig;1:0;2:0;;1.93;3.36;3.78
+01/04/18;So.;13:30;Bielefeld;Kiel;1:1;1:1;;2.97;3.40;2.23
+01/04/18;So.;13:30;Regensburg;Aue;0:2;1:3;;1.81;3.52;4.09
+01/04/18;So.;13:30;Fürth;Berlin;1:0;2:1;;2.33;3.23;2.92
+01/04/18;So.;13:30;St. Pauli;Sandhausen;1:0;1:1;;2.23;3.04;3.29
+02/04/18;Mo.;20:30;Darmstadt;Düsseldorf;1:0;1:0;;2.66;3.23;2.53
+28.KHW
+06/04/18;Fr.;18:30;Düsseldorf;Bochum;0:0;1:2;;2.55;3.29;2.61
+06/04/18;Fr.;18:30;Sandhausen;Fürth;0:0;0:0;;2.03;3.13;3.74
+07/04/18;Sa.;13:00;Berlin;Duisburg;0:0;0:0;;1.81;3.62;4.00
+07/04/18;Sa.;13:00;Kiel;Darmstadt;0:0;0:0;;1.67;3.72;4.70
+07/04/18;Sa.;13:00;Aue;St. Pauli;1:1;2:1;;2.46;3.07;2.88
+07/04/18;Sa.;13:00;Nürnberg;Heidenheim;3:1;3:2;;1.81;3.56;4.07
+08/04/18;So.;13:30;Ingolstadt;Bielefeld;0:0;2:2;;1.52;4.10;5.54
+08/04/18;So.;13:30;Kaiserslautern;Regensburg;0:1;1:1;;2.29;3.40;2.87
+08/04/18;So.;13:30;Braunschweig;Dresden;1:1;1:1;;2.52;3.19;2.71
+30.KHW
+13/04/18;Fr.;18:30;Fürth;Regensburg;0:0;1:2;;2.54;3.43;2.54
+13/04/18;Fr.;18:30;Bochum;Kaiserslautern;2:1;3:2;;1.65;3.81;4.77
+14/04/18;Sa.;13:00;Bielefeld;Aue;1:0;2:0;;2.07;3.25;3.46
+14/04/18;Sa.;13:00;St. Pauli;Berlin;0:0;0:1;;2.40;3.14;2.91
+14/04/18;Sa.;13:00;Dresden;Kiel;0:1;0:4;;2.76;3.39;2.37
+14/04/18;Sa.;13:00;Duisburg;Sandhausen;0:1;0:2;;2.45;2.95;3.01
+15/04/18;So.;13:30;Heidenheim;Düsseldorf;1:0;3:1;;2.73;3.31;2.43
+15/04/18;So.;13:30;Ingolstadt;Nürnberg;0:0;1:1;;2.04;3.45;3.33
+15/04/18;So.;13:30;Darmstadt;Braunschweig;0:1;1:1;;2.33;3.16;2.99
+32.KHW
+20/04/18;Fr.;18:30;Fürth;Bochum;1:0;1:1;;2.66;3.26;2.51
+20/04/18;Fr.;18:30;Braunschweig;Bielefeld;0:0;0:0;;2.44;3.28;2.74
+21/04/18;Sa.;13:00;Berlin;Heidenheim;0:0;1:1;;1.70;3.61;4.64
+21/04/18;Sa.;13:00;Sandhausen;Darmstadt;1:0;1:1;;2.26;3.02;3.28
+21/04/18;Sa.;13:00;Regensburg;St. Pauli;2:0;3:1;;2.09;3.46;3.20
+22/04/18;So.;13:30;Kaiserslautern;Dresden;0:0;0:1;;2.60;3.45;2.47
+22/04/18;So.;13:30;Aue;Duisburg;0:0;1:3;;2.35;3.02;3.10
+22/04/18;So.;13:30;Düsseldorf;Ingolstadt;2:0;3:0;;2.47;3.38;2.64
+23/04/18;Mo.;20:30;Kiel;Nürnberg;1:2;1:3;;1.88;3.55;3.75
+34.KHW
+27/04/18;Fr.;18:30;Bochum;Aue;1:1;2:1;;1.70;3.61;4.64
+27/04/18;Fr.;18:30;Bielefeld;Kaiserslautern;0:1;3:2;;1.70;3.90;4.25
+28/04/18;Sa.;13:00;Darmstadt;Berlin;3:0;3:1;;2.33;3.17;2.97
+28/04/18;Sa.;13:00;St. Pauli;Fürth;2:0;3:0;;2.01;3.28;3.61
+28/04/18;Sa.;13:00;Dresden;Düsseldorf;0:1;1:2;;2.38;3.36;2.76
+29/04/18;So.;13:30;Duisburg;Regensburg;0:0;4:1;;2.06;3.56;3.18
+29/04/18;So.;13:30;Heidenheim;Sandhausen;2:0;2:0;;2.62;3.10;2.66
+29/04/18;So.;13:30;Ingolstadt;Kiel;1:1;1:5;;2.29;3.39;2.87
+30/04/18;Mo.;20:30;Nürnberg;Braunschweig;1:0;2:0;;1.72;3.69;4.37
+36.KHW
+06/05/18;So.;15:30;Berlin;Bochum;1:0;3:1;;2.20;3.35;3.06
+06/05/18;So.;15:30;Sandhausen;Nürnberg;0:1;0:2;;3.48;3.14;2.11
+06/05/18;So.;15:30;Braunschweig;Ingolstadt;0:0;0:2;;2.46;3.34;2.67
+06/05/18;So.;15:30;Düsseldorf;Kiel;0:0;1:1;;2.71;3.55;2.33
+06/05/18;So.;15:30;Kaiserslautern;Heidenheim;0:0;1:0;;2.73;3.38;2.39
+06/05/18;So.;15:30;Fürth;Duisburg;1:0;2:2;;1.84;3.66;3.78
+06/05/18;So.;15:30;Regensburg;Darmstadt;0:1;0:3;;2.64;3.53;2.40
+06/05/18;So.;15:30;Aue;Dresden;0:0;0:0;;2.65;3.06;2.65
+06/05/18;So.;15:30;St. Pauli;Bielefeld;1:0;1:0;;2.06;3.46;3.26
+38.KHW
+13/05/18;So.;15:30;Ingolstadt;Kaiserslautern;0:2;1:3;;1.42;4.75;6.02
+13/05/18;So.;15:30;Heidenheim;Fürth;0:0;1:1;;2.17;3.54;2.97
+13/05/18;So.;15:30;Duisburg;St. Pauli;1:0;2:0;;2.05;3.50;3.27
+13/05/18;So.;15:30;Darmstadt;Aue;0:0;1:0;;2.19;3.03;3.41
+13/05/18;So.;15:30;Kiel;Braunschweig;4:2;6:2;;2.96;3.56;2.17
+13/05/18;So.;15:30;Dresden;Berlin;0:0;0:1;;1.85;3.64;3.77
+13/05/18;So.;15:30;Bochum;Regensburg;0:0;1:1;;1.77;4.04;3.74
+13/05/18;So.;15:30;Bielefeld;Sandhausen;0:0;0:0;;1.98;3.57;3.39
+13/05/18;So.;15:30;Nürnberg;Düsseldorf;2:1;2:3;;1.94;3.73;3.37
+40.KHW
+18/05/18;Fr.;18:15;Karlsruhe;Aue;0:0;0:0;;2.16;2.81;3.85
+41.KHW
+22/05/18;Di.;18:15;Aue;Karlsruhe;1:1;3:1;;2.39;2.77;3.34
+
+Info:;Europa/Deutschland/2. Bundesliga 2017
+Kürzeln:;u.U. = unbestimmte Uhrzeit
+;v.S. = verschobenes Spiel
+;f.E. = festgelegtes Ergebnis
+;f.H. = festgelegter Heimsieg
+;f.A. = festgelegter Auswärtssieg
+;n.V. = nach Verlängerung
+;n.E. = nach Elfmeterschießen
+;KHW = Kalenderhalbwoche
