@@ -1,2 +1,2 @@
 # Fussballstatistiken
-Ein Programm in der Entwicklung welche diverse Statistiken über Fussballergebnisse erstellen soll 
+Ein kleines Programm in der Entwicklung bzw. ein Codebeispiel, welches die Möglichkeit bietet diverse Statistiken über Fussballergebnisse zu erstellen.
